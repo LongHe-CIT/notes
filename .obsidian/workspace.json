@@ -11,8 +11,12 @@
             "id": "3f1a0adad1f06af6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -149,9 +157,14 @@
   "active": "3f1a0adad1f06af6",
   "lastOpenFiles": [
     "Notes/2023-12-04.md",
-    "notes-main.md",
     "README.md",
+    "notes-main.md",
     "Notes/2023-12-05.md",
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "◾ Cssclass声明样式举例.md",
+    "表格自定义样式.md",
+    "TIPS for Blue Topaz/Example/77-Example.md",
+    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
@@ -169,11 +182,6 @@
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-    "TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
-    "TIPS for Blue Topaz/Example/Reading/Ôú¿Ë¡¤Ê©ÄÎµÂ°æÕýÒåÁªÃË Zack Snyder's Justice League.md",
-    "TIPS for Blue Topaz/Example/Reading/ÐüÑÂÖ®ÉÏ.md",
-    "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
     "TIPS for Blue Topaz/Example/◾ TableExample",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "TIPS for Blue Topaz/Example/Reading",
