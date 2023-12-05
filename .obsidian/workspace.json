@@ -11,11 +11,10 @@
             "id": "3f1a0adad1f06af6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -31,6 +30,7 @@
       {
         "id": "8b4f011d6989c7f9",
         "type": "tabs",
+        "dimension": 77.84722222222223,
         "children": [
           {
             "id": "dbb8197795f80b5b",
@@ -66,6 +66,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "ae0c64112f02c1d3",
+        "type": "tabs",
+        "dimension": 22.15277777777778,
+        "children": [
+          {
+            "id": "8460f5238315781f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +137,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "8460f5238315781f",
+            "id": "6cdfe45f037a8c77",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {}
             }
           }
@@ -142,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +167,10 @@
   },
   "active": "3f1a0adad1f06af6",
   "lastOpenFiles": [
-    "Notes/2023-12-04.md",
     "README.md",
-    "notes-main.md",
     "Notes/2023-12-05.md",
+    "Notes/2023-12-04.md",
+    "notes-main.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "◾ Cssclass声明样式举例.md",
     "表格自定义样式.md",
