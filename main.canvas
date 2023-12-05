@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"957c1a8a39806983","x":-840,"y":-680,"width":400,"height":400,"type":"file","file":"README.md"},
+		{"id":"887ce14b2905f602","type":"file","file":"Notes/2023-12-04.md","x":-400,"y":-680,"width":400,"height":400,"color":"2"},
+		{"id":"09c2f3362c076324","x":60,"y":-680,"width":400,"height":400,"color":"6","type":"file","file":"Notes/2023-12-05.md"}
+	],
+	"edges":[]
+}

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5fab08ef219c8e",
+        "id": "3317d5435e97c250",
         "type": "tabs",
         "children": [
           {
-            "id": "3f1a0adad1f06af6",
+            "id": "516346b7f7fd6ff4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -30,7 +31,7 @@
       {
         "id": "8b4f011d6989c7f9",
         "type": "tabs",
-        "dimension": 77.84722222222223,
+        "dimension": 75.41666666666667,
         "children": [
           {
             "id": "dbb8197795f80b5b",
@@ -70,7 +71,7 @@
       {
         "id": "ae0c64112f02c1d3",
         "type": "tabs",
-        "dimension": 22.15277777777778,
+        "dimension": 24.583333333333332,
         "children": [
           {
             "id": "8460f5238315781f",
@@ -84,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "d0666f3aa655e56b",
@@ -100,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -165,18 +170,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3f1a0adad1f06af6",
+  "active": "516346b7f7fd6ff4",
   "lastOpenFiles": [
+    "main.canvas",
     "README.md",
     "Notes/2023-12-05.md",
     "Notes/2023-12-04.md",
+    "2023-12-05.md",
     "notes-main.md",
+    "图片横排布局以及添加标题.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "◾ Cssclass声明样式举例.md",
     "表格自定义样式.md",
     "TIPS for Blue Topaz/Example/77-Example.md",
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
@@ -190,9 +198,6 @@
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "TIPS for Blue Topaz/Example/◾ TableExample",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
     "TIPS for Blue Topaz/Example/Reading",
