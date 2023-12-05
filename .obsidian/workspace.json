@@ -11,12 +11,8 @@
             "id": "3f1a0adad1f06af6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "8460f5238315781f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,6 +146,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dbb8197795f80b5b",
-  "lastOpenFiles": []
+  "active": "3f1a0adad1f06af6",
+  "lastOpenFiles": [
+    "Notes/2023-12-04.md",
+    "notes-main.md",
+    "README.md",
+    "Notes/2023-12-05.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+    "TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
+    "TIPS for Blue Topaz/Example/Reading/Ôú¿Ë¡¤Ê©ÄÎµÂ°æÕýÒåÁªÃË Zack Snyder's Justice League.md",
+    "TIPS for Blue Topaz/Example/Reading/ÐüÑÂÖ®ÉÏ.md",
+    "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
+    "TIPS for Blue Topaz/Example/Reading",
+    "TIPS for Blue Topaz/Attachemnt/ÈÃ×Óµ¯·Éº£±¨.jpg",
+    "TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
+    "TIPS for Blue Topaz/Example",
+    "TIPS for Blue Topaz/Attachemnt",
+    "TIPS for Blue Topaz",
+    "Notes"
+  ]
 }
