@@ -29,7 +29,6 @@ obsidianUIMode: "preview"
 	- [[以橱窗的方式浏览文件夹下的图片]]
 	- [[真Kanban]]
 	- [[最近天气查询]]
-	- [[notes-main]]
 	- [[callout 便签效果]]
 	- [[Callout环绕布局、缩进效果示例]]
 	- [[example database]]
