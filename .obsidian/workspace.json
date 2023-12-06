@@ -11,11 +11,10 @@
             "id": "516346b7f7fd6ff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -101,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,12 +167,12 @@
   },
   "active": "516346b7f7fd6ff4",
   "lastOpenFiles": [
-    "notes-main.md",
+    "main.canvas",
     "README.md",
+    "notes-main.md",
     "Notes/2023-12-04.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/Example/77-Example.md",
-    "main.canvas",
     "Notes/2023-12-05.md",
     "Pasted image 20220518090553.png.md",
     "ob提示框(callout)样式展示.md",
@@ -185,7 +180,7 @@
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "Pasted image 20211215202628.png.md",
     "◾ Echarts.md",
-    "2023-12-06.md",
+    "Notes/2023-12-06.md",
     "2023-12-05.md",
     "图片横排布局以及添加标题.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
