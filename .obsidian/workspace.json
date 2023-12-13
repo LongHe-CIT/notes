@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3317d5435e97c250",
+        "id": "6add759d67d32ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "516346b7f7fd6ff4",
+            "id": "b964c09da8724644",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "2023-12-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -70,7 +71,7 @@
       {
         "id": "ae0c64112f02c1d3",
         "type": "tabs",
-        "dimension": 24.583333333333332,
+        "dimension": 24.58333333333333,
         "children": [
           {
             "id": "8460f5238315781f",
@@ -100,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-12.md"
+              }
             }
           },
           {
@@ -165,48 +170,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "516346b7f7fd6ff4",
+  "active": "b964c09da8724644",
   "lastOpenFiles": [
-    "main.canvas",
+    "files/zsh-autosuggestions/README.md",
+    "2023-12-12.md",
+    "files/zsh-autosuggestions.md",
+    "files/zsh-syntax-highlighting/tests/test-zprof.zsh",
+    "files/zsh-syntax-highlighting/tests/test-perfs.zsh",
+    "files/zsh-syntax-highlighting/tests/test-highlighting.zsh",
+    "files/zsh-syntax-highlighting/tests/tap-filter",
+    "files/zsh-syntax-highlighting/tests/tap-colorizer.zsh",
+    "files/zsh-syntax-highlighting/tests/generate.zsh",
+    "files/zsh-syntax-highlighting/tests/edit-failed-tests",
+    "files/zsh-syntax-highlighting/tests/README.md",
+    "files/zsh-syntax-highlighting/tests",
+    "files/zsh-syntax-highlighting/images/preview.png",
+    "files/zsh-syntax-highlighting/images/preview-smaller.png",
+    "files/zsh-syntax-highlighting/images/before4-smaller.png",
+    "files/zsh-syntax-highlighting/images/before3.png",
+    "files/zsh-syntax-highlighting/images/before3-smaller.png",
+    "files/zsh-syntax-highlighting/images/before2.png",
+    "files/zsh-syntax-highlighting/images/before2-smaller.png",
+    "files/zsh-syntax-highlighting/images/before1.png",
+    "files/zsh-syntax-highlighting/images/before1-smaller.png",
+    "files/zsh-syntax-highlighting/images/after4-smaller.png",
+    "files/zsh-syntax-highlighting/images",
+    "files/zsh-syntax-highlighting/highlighters/root/root-highlighter.zsh",
+    "files/zsh-syntax-highlighting/highlighters/README.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/root.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/regexp.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/pattern.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/main.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/line.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/cursor.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/brackets.md",
+    "files/zsh-syntax-highlighting/docs/highlighters.md",
+    "files/zsh-syntax-highlighting/release.md",
+    "files/zsh-syntax-highlighting/changelog.md",
+    "files/zsh-syntax-highlighting/README.md",
+    "files/zsh-syntax-highlighting/INSTALL.md",
+    "files/zsh-syntax-highlighting/HACKING.md",
+    "files/zsh-syntax-highlighting/COPYING.md",
+    "files/zsh-autosuggestions/INSTALL.md",
+    "files/zsh-autosuggestions/CHANGELOG.md",
     "README.md",
+    "main.canvas",
     "notes-main.md",
     "Notes/2023-12-04.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
-    "TIPS for Blue Topaz/Example/77-Example.md",
-    "Notes/2023-12-05.md",
-    "Pasted image 20220518090553.png.md",
-    "ob提示框(callout)样式展示.md",
-    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-    "Pasted image 20211215202628.png.md",
-    "◾ Echarts.md",
-    "Notes/2023-12-06.md",
-    "2023-12-05.md",
-    "图片横排布局以及添加标题.md",
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "◾ Cssclass声明样式举例.md",
-    "表格自定义样式.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
-    "TIPS for Blue Topaz/Example/Reading",
-    "TIPS for Blue Topaz/Attachemnt/ÈÃ×Óµ¯·Éº£±¨.jpg",
-    "TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
-    "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
-    "TIPS for Blue Topaz/Example",
-    "TIPS for Blue Topaz/Attachemnt",
-    "TIPS for Blue Topaz",
-    "Notes"
+    "TIPS for Blue Topaz/Example/77-Example.md"
   ]
 }
