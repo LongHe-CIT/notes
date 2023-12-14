@@ -11,11 +11,14 @@
             "id": "3950eacfeb2b6799",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-12-13.md",
-                "mode": "source",
-                "source": false
+                "file": "main.canvas",
+                "viewState": {
+                  "x": -800,
+                  "y": 533.463335782513,
+                  "zoom": -0.11506945759107524
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "main.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "main.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-13.md"
+                "file": "main.canvas"
               }
             }
           },
@@ -172,12 +175,13 @@
   },
   "active": "3950eacfeb2b6799",
   "lastOpenFiles": [
+    "Notes/2023-12-14.md",
+    "Notes/2023-12-13.md",
+    "Notes/2023-12-12.md",
     "main.canvas",
-    "2023-12-13.md",
     "Notes/2023-12-06.md",
     "Notes/2023-12-05.md",
     "Notes/2023-12-04.md",
-    "Notes/2023-12-12.md",
     "notes-main.md",
     "README.md",
     "Notes/2023-12-11.md",
