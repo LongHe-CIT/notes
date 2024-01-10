@@ -1,0 +1,17 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "bug",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(215, 58, 74, 1)"
+    }
+  ],
+  "new-note-template": "CoverMore/Jira Board/Base.md",
+  "new-note-folder": "CoverMore/Jira Board",
+  "append-archive-date": true,
+  "show-checkboxes": false,
+  "archive-with-date": true,
+  "show-relative-date": false,
+  "hide-date-display": false,
+  "hide-date-in-title": true
+}

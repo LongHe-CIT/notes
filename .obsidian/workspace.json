@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "541c60dd4f35f247",
+        "id": "db113fc99c7e21a1",
         "type": "tabs",
         "children": [
           {
-            "id": "3950eacfeb2b6799",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "main.canvas",
-                "viewState": {
-                  "x": -800,
-                  "y": 50,
-                  "zoom": -0.5977428470127278
-                }
-              }
-            }
-          },
-          {
-            "id": "7337c50d9765e791",
+            "id": "e9f7540ec61c1039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore.md",
+                "file": "2024-01-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "date",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore.md",
+                "file": "2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore.md",
+                "file": "2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore.md"
+                "file": "2024-01-10.md"
               }
             }
           },
@@ -183,56 +167,59 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7337c50d9765e791",
+  "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
-    "main.canvas",
     "notes-main.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
+    "files/zsh-syntax-highlighting/release.md",
+    "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
+    "CoverMore/Jira Board.md",
+    "Template/Jira Board Template.md",
+    "Template/Biji Template.md",
+    "2024-01-10.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
+    "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
+    "TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
+    "TIPS for Blue Topaz/Attachemnt/ÈÃ×Óµ¯·Éº£±¨.jpg",
+    "TIPS for Blue Topaz/Example/Reading/¡¶Á­µ¶Óë³ÇÊÐ¡·.md",
+    "未命名.canvas",
+    "Template",
+    "Excalidraw/Drawing 2024-01-10 16.41.38.excalidraw.md",
     "README.md",
-    "CoverMore.md",
+    "Notes/2023-12-04.md",
+    "CoverMore/CoverMore.md",
+    "Notes/2024-01-10.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "main.canvas",
+    "未命名.md",
+    "Notes/2023-12-14.md",
+    "Excalidraw",
+    "CoverMore",
+    "CoverMore/Jira Board",
     "files/Pasted image 20240110131128.png",
     "Pasted image 20240110130943.png",
-    "Notes/2023-12-04.md",
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "CoverMore/CoverMore.md",
     "CoverMore",
-    "Notes/2023-12-14.md",
-    "Notes/2023-12-13.md",
-    "Notes/2023-12-12.md",
-    "Notes/2023-12-06.md",
-    "Notes/2023-12-05.md",
-    "Notes/2023-12-11.md",
-    "conflict-files-obsidian-git.md",
-    "files/zsh-autosuggestions/README.md",
-    "files/zsh-autosuggestions.md",
     "files/zsh-syntax-highlighting/tests/test-zprof.zsh",
     "files/zsh-syntax-highlighting/tests/test-perfs.zsh",
     "files/zsh-syntax-highlighting/tests/test-highlighting.zsh",
-    "files/zsh-syntax-highlighting/tests/tap-filter",
-    "files/zsh-syntax-highlighting/tests/tap-colorizer.zsh",
-    "files/zsh-syntax-highlighting/tests/generate.zsh",
-    "files/zsh-syntax-highlighting/tests/edit-failed-tests",
-    "files/zsh-syntax-highlighting/tests/README.md",
-    "files/zsh-syntax-highlighting/tests",
     "files/zsh-syntax-highlighting/images/preview.png",
-    "files/zsh-syntax-highlighting/images/preview-smaller.png",
-    "files/zsh-syntax-highlighting/images/before4-smaller.png",
-    "files/zsh-syntax-highlighting/images/before3.png",
-    "files/zsh-syntax-highlighting/images/before3-smaller.png",
-    "files/zsh-syntax-highlighting/images/before2.png",
-    "files/zsh-syntax-highlighting/images/before2-smaller.png",
-    "files/zsh-syntax-highlighting/images/before1.png",
-    "files/zsh-syntax-highlighting/images",
-    "files/zsh-syntax-highlighting/highlighters/README.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/root.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/regexp.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/pattern.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/main.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/line.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/cursor.md",
-    "files/zsh-syntax-highlighting/docs/highlighters/brackets.md",
-    "files/zsh-syntax-highlighting/docs/highlighters.md"
+    "files/zsh-syntax-highlighting/images/preview-smaller.png"
   ]
 }
