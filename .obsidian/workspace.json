@@ -16,8 +16,8 @@
                 "file": "main.canvas",
                 "viewState": {
                   "x": -800,
-                  "y": 533.463335782513,
-                  "zoom": -0.11506945759107524
+                  "y": 373.9799117490936,
+                  "zoom": -0.5150694575910753
                 }
               }
             }
@@ -34,7 +34,6 @@
       {
         "id": "8b4f011d6989c7f9",
         "type": "tabs",
-        "dimension": 75.41666666666667,
         "children": [
           {
             "id": "dbb8197795f80b5b",
@@ -70,21 +69,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ae0c64112f02c1d3",
-        "type": "tabs",
-        "dimension": 24.58333333333333,
-        "children": [
-          {
-            "id": "8460f5238315781f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +81,7 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
+        "dimension": 64.42125237191651,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -158,6 +143,21 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "551836b2b3210afb",
+        "type": "tabs",
+        "dimension": 35.57874762808349,
+        "children": [
+          {
+            "id": "8460f5238315781f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +173,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3950eacfeb2b6799",
+  "active": "6cdfe45f037a8c77",
   "lastOpenFiles": [
     "Notes/2023-12-14.md",
     "Notes/2023-12-13.md",
