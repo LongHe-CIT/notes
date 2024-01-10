@@ -16,13 +16,26 @@
                 "file": "main.canvas",
                 "viewState": {
                   "x": -800,
-                  "y": 373.9799117490936,
-                  "zoom": -0.5150694575910753
+                  "y": 50,
+                  "zoom": -0.5977428470127278
                 }
               }
             }
+          },
+          {
+            "id": "7337c50d9765e791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoverMore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 284.5
   },
   "right": {
     "id": "d0666f3aa655e56b",
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.canvas",
+                "file": "CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main.canvas",
+                "file": "CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main.canvas"
+                "file": "CoverMore.md"
               }
             }
           },
@@ -173,17 +186,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cdfe45f037a8c77",
+  "active": "7337c50d9765e791",
   "lastOpenFiles": [
+    "main.canvas",
+    "notes-main.md",
+    "README.md",
+    "CoverMore.md",
+    "files/Pasted image 20240110131128.png",
+    "Pasted image 20240110130943.png",
+    "Notes/2023-12-04.md",
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "CoverMore/CoverMore.md",
+    "CoverMore",
     "Notes/2023-12-14.md",
     "Notes/2023-12-13.md",
     "Notes/2023-12-12.md",
-    "main.canvas",
     "Notes/2023-12-06.md",
     "Notes/2023-12-05.md",
-    "Notes/2023-12-04.md",
-    "notes-main.md",
-    "README.md",
     "Notes/2023-12-11.md",
     "conflict-files-obsidian-git.md",
     "files/zsh-autosuggestions/README.md",
@@ -205,10 +224,7 @@
     "files/zsh-syntax-highlighting/images/before2.png",
     "files/zsh-syntax-highlighting/images/before2-smaller.png",
     "files/zsh-syntax-highlighting/images/before1.png",
-    "files/zsh-syntax-highlighting/images/before1-smaller.png",
-    "files/zsh-syntax-highlighting/images/after4-smaller.png",
     "files/zsh-syntax-highlighting/images",
-    "files/zsh-syntax-highlighting/highlighters/root/root-highlighter.zsh",
     "files/zsh-syntax-highlighting/highlighters/README.md",
     "files/zsh-syntax-highlighting/docs/highlighters/root.md",
     "files/zsh-syntax-highlighting/docs/highlighters/regexp.md",
@@ -217,10 +233,6 @@
     "files/zsh-syntax-highlighting/docs/highlighters/line.md",
     "files/zsh-syntax-highlighting/docs/highlighters/cursor.md",
     "files/zsh-syntax-highlighting/docs/highlighters/brackets.md",
-    "files/zsh-syntax-highlighting/docs/highlighters.md",
-    "files/zsh-syntax-highlighting/release.md",
-    "files/zsh-syntax-highlighting/changelog.md",
-    "files/zsh-syntax-highlighting/README.md",
-    "files/zsh-syntax-highlighting/INSTALL.md"
+    "files/zsh-syntax-highlighting/docs/highlighters.md"
   ]
 }

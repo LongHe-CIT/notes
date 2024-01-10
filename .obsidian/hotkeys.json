@@ -1,1 +1,19 @@
-{}
+{
+  "obsidian-jira-issue:obsidian-jira-issue-template-fence": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-jira-issue:obsidian-jira-search-wizard-fence": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ]
+}

@@ -1,0 +1,1021 @@
+{
+  "accounts": [
+    {
+      "alias": "helong",
+      "host": "https://innate.atlassian.net/",
+      "authenticationType": "CLOUD",
+      "password": "ATATT3xFfGF0PpWIoFgzJcsMsB3DZ9LswPRSp5l89L8mZnz6fXPc17ASibaC1JFts2TxmUqvXvf6RgHq1FRzJgSHAZIHp3N4Yy0MU9jFNzlAEwlcJwBQXFBMwnQCmHDzMhMVHgM68QkGhOaGHfEP7rRdKmd47YlzBVb_SYO6S7E8Y9rKRkpM0Uo=EEA429AA",
+      "priority": 1,
+      "color": "#000000",
+      "cache": {
+        "statusColor": {},
+        "customFieldsIdToName": {
+          "10000": "Development",
+          "10001": "Team",
+          "10002": "Organizations",
+          "10003": "Epic Name",
+          "10004": "Epic Status",
+          "10005": "Epic Color",
+          "10006": "Epic Link",
+          "10007": "Parent Link",
+          "10100": "[CHART] Date of First Response",
+          "10101": "[CHART] Time in Status",
+          "10102": "Approvals",
+          "10103": "Sprint",
+          "10104": "Rank",
+          "10105": "uuid",
+          "10106": "Location",
+          "10109": "Story Points",
+          "10116": "Tempo Team",
+          "10117": "Account",
+          "10119": "Request Type",
+          "10301": "Bug Type",
+          "10302": "Build Type",
+          "10305": "Channel",
+          "10349": "Region",
+          "10350": "Flagged",
+          "10351": "Requested By",
+          "10352": "Start date",
+          "10353": "Request participants",
+          "10354": "Story point estimate",
+          "10355": "Client Project",
+          "10356": "Content type",
+          "10357": "Publication date",
+          "10358": "Issue color",
+          "10359": "User Story",
+          "10360": "Acceptance Criteria",
+          "10361": "Implementation Details",
+          "10362": "Testing Steps",
+          "10363": "Satisfaction",
+          "10365": "Start date",
+          "10366": "End date",
+          "10367": "Baseline start date",
+          "10368": "Baseline end date",
+          "10369": "Task progress",
+          "10370": "Partner",
+          "10371": "Satisfaction date",
+          "10372": "Approvers",
+          "10373": "Time to resolution",
+          "10374": "Time to first response",
+          "10375": "Request language",
+          "10376": "Impact",
+          "10377": "Change type",
+          "10378": "Change risk",
+          "10379": "Change reason",
+          "10380": "Change start date",
+          "10381": "Change completion date",
+          "10382": "Urgency",
+          "10383": "Pending reason",
+          "10384": "Product categorization",
+          "10385": "Operational categorization",
+          "10386": "Source",
+          "10387": "Investigation reason",
+          "10388": "Root cause",
+          "10389": "Workaround",
+          "10390": "Change managers",
+          "10391": "CAB",
+          "10392": "Time to close after resolution",
+          "10393": "Time to approve normal change",
+          "10394": "Innate Systems",
+          "10395": "Access Review Approvers",
+          "10396": "Line Manager",
+          "10397": "Promo Code",
+          "10398": "Discount",
+          "10401": "Additional Information",
+          "10402": "Additional POC",
+          "10412": "Brand Guide Lines",
+          "10413": "URL",
+          "10414": "Request By Date",
+          "10415": "Scoping Doc",
+          "10416": "API Guide",
+          "10417": "Design",
+          "10419": "Did you check this?",
+          "10423": "Acceptance Critera",
+          "10424": "User Story",
+          "10425": "Partner",
+          "10426": "TFS Ticket number",
+          "10430": "Deployment Steps",
+          "10431": "User Story",
+          "10432": "Acceptance Criteria",
+          "10433": "Implementation Details",
+          "10434": "Testing Steps",
+          "10435": "Digital Strategist",
+          "10437": "Service Now Info",
+          "10438": "Incident Priority",
+          "10439": "ACQ Story Points",
+          "10440": "Product Team",
+          "10441": "Target start",
+          "10442": "Target end",
+          "10443": "T-shirt Size",
+          "10444": "External issue ID",
+          "10445": "Title",
+          "10446": "Pre-condition",
+          "10447": "Test Steps",
+          "10448": "Test Data",
+          "10449": "Expected Result",
+          "10450": "Actual Result",
+          "10452": "Importance",
+          "10453": "Regression Test Case",
+          "10454": "Automation Candidate",
+          "10455": "Test Case Automated",
+          "10456": "Execution Type",
+          "10457": "Execution Duration (mins)",
+          "10458": "Comments",
+          "10459": "Severity",
+          "10460": "Test Phase",
+          "10462": "Approver groups",
+          "10463": "Affected services",
+          "10464": "Open forms",
+          "10465": "Submitted forms",
+          "10466": "Locked forms",
+          "10467": "Total forms",
+          "10468": "Compass",
+          "10469": "Category",
+          "10470": "Checklist Progress",
+          "10471": "Checklist Progress %",
+          "10472": "Checklist Template",
+          "10473": "Checklist Text (view-only)",
+          "10474": "Checklist Completed",
+          "10475": "Checklist Content YAML",
+          "10476": "Checklist Text",
+          "10477": "Work Requested By",
+          "10478": "Dev Notes",
+          "11480": "External issue ID",
+          "11481": "Ticket Number"
+        },
+        "customFieldsNameToId": {
+          "Checklist Progress": "10470",
+          "Checklist Progress %": "10471",
+          "Flagged": "10350",
+          "Checklist Template": "10472",
+          "Requested By": "10351",
+          "Checklist Text (view-only)": "10473",
+          "Start date": "10365",
+          "Checklist Completed": "10474",
+          "Request participants": "10353",
+          "Checklist Content YAML": "10475",
+          "Story point estimate": "10354",
+          "Checklist Text": "10476",
+          "Client Project": "10355",
+          "Content type": "10356",
+          "Work Requested By": "10477",
+          "Rank": "10104",
+          "Total forms": "10467",
+          "Compass": "10468",
+          "uuid": "10105",
+          "Category": "10469",
+          "Location": "10106",
+          "Region": "10349",
+          "Story Points": "10109",
+          "Test Phase": "10460",
+          "Approver groups": "10462",
+          "Affected services": "10463",
+          "[CHART] Date of First Response": "10100",
+          "Open forms": "10464",
+          "[CHART] Time in Status": "10101",
+          "Approvals": "10102",
+          "Submitted forms": "10465",
+          "Locked forms": "10466",
+          "Sprint": "10103",
+          "Execution Type": "10456",
+          "Execution Duration (mins)": "10457",
+          "Comments": "10458",
+          "Severity": "10459",
+          "Actual Result": "10450",
+          "Importance": "10452",
+          "Regression Test Case": "10453",
+          "Automation Candidate": "10454",
+          "Test Case Automated": "10455",
+          "Title": "10445",
+          "Pre-condition": "10446",
+          "Test Steps": "10447",
+          "Test Data": "10448",
+          "Expected Result": "10449",
+          "Product Team": "10440",
+          "Target start": "10441",
+          "Target end": "10442",
+          "T-shirt Size": "10443",
+          "External issue ID": "11480",
+          "Testing Steps": "10362",
+          "Digital Strategist": "10435",
+          "Service Now Info": "10437",
+          "Incident Priority": "10438",
+          "ACQ Story Points": "10439",
+          "Change managers": "10390",
+          "CAB": "10391",
+          "Ticket Number": "11481",
+          "Time to close after resolution": "10392",
+          "Time to approve normal change": "10393",
+          "Innate Systems": "10394",
+          "Access Review Approvers": "10395",
+          "Line Manager": "10396",
+          "Deployment Steps": "10430",
+          "Promo Code": "10397",
+          "Discount": "10398",
+          "User Story": "10359",
+          "Acceptance Criteria": "10360",
+          "Implementation Details": "10361",
+          "Acceptance Critera": "10423",
+          "Build Type": "10302",
+          "Partner": "10370",
+          "Channel": "10305",
+          "TFS Ticket number": "10426",
+          "Change start date": "10380",
+          "Change completion date": "10381",
+          "Urgency": "10382",
+          "Pending reason": "10383",
+          "Product categorization": "10384",
+          "Operational categorization": "10385",
+          "Source": "10386",
+          "Investigation reason": "10387",
+          "Root cause": "10388",
+          "Bug Type": "10301",
+          "Workaround": "10389",
+          "Brand Guide Lines": "10412",
+          "Change reason": "10379",
+          "URL": "10413",
+          "Request By Date": "10414",
+          "Scoping Doc": "10415",
+          "API Guide": "10416",
+          "Design": "10417",
+          "Did you check this?": "10419",
+          "Satisfaction date": "10371",
+          "Approvers": "10372",
+          "Time to resolution": "10373",
+          "Time to first response": "10374",
+          "Request language": "10375",
+          "Impact": "10376",
+          "Change type": "10377",
+          "Change risk": "10378",
+          "Additional Information": "10401",
+          "Baseline end date": "10368",
+          "Epic Color": "10005",
+          "Additional POC": "10402",
+          "Epic Link": "10006",
+          "Task progress": "10369",
+          "Parent Link": "10007",
+          "Satisfaction": "10363",
+          "Development": "10000",
+          "Team": "10001",
+          "Organizations": "10002",
+          "End date": "10366",
+          "Epic Name": "10003",
+          "Baseline start date": "10367",
+          "Epic Status": "10004",
+          "Dev Notes": "10478",
+          "Publication date": "10357",
+          "Issue color": "10358",
+          "Tempo Team": "10116",
+          "Account": "10117",
+          "Request Type": "10119"
+        },
+        "customFieldsType": {
+          "10000": {
+            "type": "any",
+            "custom": "com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarycf",
+            "customId": 10000
+          },
+          "10001": {
+            "type": "team",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:atlassian-team",
+            "customId": 10001,
+            "configuration": {
+              "com.atlassian.jira.plugin.system.customfieldtypes:atlassian-team": true
+            }
+          },
+          "10002": {
+            "type": "array",
+            "items": "sd-customerorganization",
+            "custom": "com.atlassian.servicedesk:sd-customer-organizations",
+            "customId": 10002
+          },
+          "10003": {
+            "type": "string",
+            "custom": "com.pyxis.greenhopper.jira:gh-epic-label",
+            "customId": 10003
+          },
+          "10004": {
+            "type": "option",
+            "custom": "com.pyxis.greenhopper.jira:gh-epic-status",
+            "customId": 10004
+          },
+          "10005": {
+            "type": "string",
+            "custom": "com.pyxis.greenhopper.jira:gh-epic-color",
+            "customId": 10005
+          },
+          "10006": {
+            "type": "any",
+            "custom": "com.pyxis.greenhopper.jira:gh-epic-link",
+            "customId": 10006
+          },
+          "10007": {
+            "type": "any",
+            "custom": "com.atlassian.jpo:jpo-custom-field-parent",
+            "customId": 10007
+          },
+          "10100": {
+            "type": "datetime",
+            "custom": "com.atlassian.jira.ext.charting:firstresponsedate",
+            "customId": 10100
+          },
+          "10101": {
+            "type": "any",
+            "custom": "com.atlassian.jira.ext.charting:timeinstatus",
+            "customId": 10101
+          },
+          "10102": {
+            "type": "sd-approvals",
+            "custom": "com.atlassian.servicedesk.approvals-plugin:sd-approvals",
+            "customId": 10102
+          },
+          "10103": {
+            "type": "array",
+            "items": "json",
+            "custom": "com.pyxis.greenhopper.jira:gh-sprint",
+            "customId": 10103
+          },
+          "10104": {
+            "type": "any",
+            "custom": "com.pyxis.greenhopper.jira:gh-lexo-rank",
+            "customId": 10104
+          },
+          "10105": {
+            "type": "string",
+            "custom": "com.atlassian.jconnect.jconnect-plugin:uuid",
+            "customId": 10105
+          },
+          "10106": {
+            "type": "any",
+            "custom": "com.atlassian.jconnect.jconnect-plugin:location",
+            "customId": 10106
+          },
+          "10109": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+            "customId": 10109
+          },
+          "10116": {
+            "type": "option2",
+            "custom": "com.atlassian.plugins.atlassian-connect-plugin:io.tempo.jira__team",
+            "customId": 10116
+          },
+          "10117": {
+            "type": "option2",
+            "custom": "com.atlassian.plugins.atlassian-connect-plugin:io.tempo.jira__account",
+            "customId": 10117
+          },
+          "10119": {
+            "type": "sd-customerrequesttype",
+            "custom": "com.atlassian.servicedesk:vp-origin",
+            "customId": 10119
+          },
+          "10301": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+            "customId": 10301
+          },
+          "10302": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10302
+          },
+          "10305": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10305
+          },
+          "10349": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+            "customId": 10349
+          },
+          "10350": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+            "customId": 10350
+          },
+          "10351": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+            "customId": 10351
+          },
+          "10352": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10352
+          },
+          "10353": {
+            "type": "array",
+            "items": "user",
+            "custom": "com.atlassian.servicedesk:sd-request-participants",
+            "customId": 10353
+          },
+          "10354": {
+            "type": "number",
+            "custom": "com.pyxis.greenhopper.jira:jsw-story-points",
+            "customId": 10354
+          },
+          "10355": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10355
+          },
+          "10356": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10356
+          },
+          "10357": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10357
+          },
+          "10358": {
+            "type": "string",
+            "custom": "com.pyxis.greenhopper.jira:jsw-issue-color",
+            "customId": 10358
+          },
+          "10359": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10359
+          },
+          "10360": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10360
+          },
+          "10361": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10361
+          },
+          "10362": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10362
+          },
+          "10363": {
+            "type": "sd-feedback",
+            "custom": "com.atlassian.servicedesk:sd-request-feedback",
+            "customId": 10363
+          },
+          "10365": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10365
+          },
+          "10366": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10366
+          },
+          "10367": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10367
+          },
+          "10368": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10368
+          },
+          "10369": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+            "customId": 10369
+          },
+          "10370": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10370
+          },
+          "10371": {
+            "type": "datetime",
+            "custom": "com.atlassian.servicedesk:sd-request-feedback-date",
+            "customId": 10371
+          },
+          "10372": {
+            "type": "array",
+            "items": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+            "customId": 10372
+          },
+          "10373": {
+            "type": "sd-servicelevelagreement",
+            "custom": "com.atlassian.servicedesk:sd-sla-field",
+            "customId": 10373
+          },
+          "10374": {
+            "type": "sd-servicelevelagreement",
+            "custom": "com.atlassian.servicedesk:sd-sla-field",
+            "customId": 10374
+          },
+          "10375": {
+            "type": "sd-request-lang",
+            "custom": "com.atlassian.servicedesk.servicedesk-lingo-integration-plugin:sd-request-language",
+            "customId": 10375
+          },
+          "10376": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10376
+          },
+          "10377": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10377
+          },
+          "10378": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10378
+          },
+          "10379": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10379
+          },
+          "10380": {
+            "type": "datetime",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+            "customId": 10380
+          },
+          "10381": {
+            "type": "datetime",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+            "customId": 10381
+          },
+          "10382": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10382
+          },
+          "10383": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10383
+          },
+          "10384": {
+            "type": "option-with-child",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+            "customId": 10384
+          },
+          "10385": {
+            "type": "option-with-child",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+            "customId": 10385
+          },
+          "10386": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10386
+          },
+          "10387": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10387
+          },
+          "10388": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10388
+          },
+          "10389": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10389
+          },
+          "10390": {
+            "type": "array",
+            "items": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+            "customId": 10390
+          },
+          "10391": {
+            "type": "array",
+            "items": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+            "customId": 10391
+          },
+          "10392": {
+            "type": "sd-servicelevelagreement",
+            "custom": "com.atlassian.servicedesk:sd-sla-field",
+            "customId": 10392
+          },
+          "10393": {
+            "type": "sd-servicelevelagreement",
+            "custom": "com.atlassian.servicedesk:sd-sla-field",
+            "customId": 10393
+          },
+          "10394": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+            "customId": 10394
+          },
+          "10395": {
+            "type": "array",
+            "items": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+            "customId": 10395
+          },
+          "10396": {
+            "type": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+            "customId": 10396
+          },
+          "10397": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10397
+          },
+          "10398": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10398
+          },
+          "10401": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10401
+          },
+          "10402": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10402
+          },
+          "10412": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10412
+          },
+          "10413": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+            "customId": 10413
+          },
+          "10414": {
+            "type": "date",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+            "customId": 10414
+          },
+          "10415": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10415
+          },
+          "10416": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10416
+          },
+          "10417": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+            "customId": 10417
+          },
+          "10419": {
+            "type": "array",
+            "items": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+            "customId": 10419
+          },
+          "10423": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10423
+          },
+          "10424": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10424
+          },
+          "10425": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10425
+          },
+          "10426": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10426
+          },
+          "10430": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10430
+          },
+          "10431": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10431
+          },
+          "10432": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10432
+          },
+          "10433": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10433
+          },
+          "10434": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10434
+          },
+          "10435": {
+            "type": "user",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+            "customId": 10435
+          },
+          "10437": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10437
+          },
+          "10438": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10438
+          },
+          "10439": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+            "customId": 10439
+          },
+          "10440": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10440
+          },
+          "10441": {
+            "type": "date",
+            "custom": "com.atlassian.jpo:jpo-custom-field-baseline-start",
+            "customId": 10441
+          },
+          "10442": {
+            "type": "date",
+            "custom": "com.atlassian.jpo:jpo-custom-field-baseline-end",
+            "customId": 10442
+          },
+          "10443": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10443
+          },
+          "10444": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10444
+          },
+          "10445": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10445
+          },
+          "10446": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10446
+          },
+          "10447": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10447
+          },
+          "10448": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10448
+          },
+          "10449": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10449
+          },
+          "10450": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10450
+          },
+          "10452": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10452
+          },
+          "10453": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10453
+          },
+          "10454": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10454
+          },
+          "10455": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10455
+          },
+          "10456": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10456
+          },
+          "10457": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+            "customId": 10457
+          },
+          "10458": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10458
+          },
+          "10459": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10459
+          },
+          "10460": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10460
+          },
+          "10462": {
+            "type": "array",
+            "items": "group",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multigrouppicker",
+            "customId": 10462
+          },
+          "10463": {
+            "type": "array",
+            "items": "service-entity-field",
+            "custom": "com.atlassian.jira.plugins.service-entity:service-entity-field-cftype",
+            "customId": 10463
+          },
+          "10464": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-open-field-cftype",
+            "customId": 10464
+          },
+          "10465": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-submitted-field-cftype",
+            "customId": 10465
+          },
+          "10466": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-locked-field-cftype",
+            "customId": 10466
+          },
+          "10467": {
+            "type": "number",
+            "custom": "com.atlassian.jira.plugins.proforma-managed-fields:forms-total-field-cftype",
+            "customId": 10467
+          },
+          "10468": {
+            "type": "string",
+            "custom": "ari:cloud:ecosystem::extension/61de211f-8732-44ee-ace2-490fbca80575/b77371bd-a301-42b5-bc21-691f2b6dd5c7/static/compass-jira-integration-custom-field",
+            "customId": 10468,
+            "configuration": {
+              "customRenderer": true,
+              "readOnly": false,
+              "environment": "PRODUCTION"
+            }
+          },
+          "10469": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:jwm-category",
+            "customId": 10469
+          },
+          "10470": {
+            "type": "string",
+            "custom": "read-only-string-issue-field",
+            "customId": 10470
+          },
+          "10471": {
+            "type": "number",
+            "custom": "read-only-number-issue-field",
+            "customId": 10471
+          },
+          "10472": {
+            "type": "option2",
+            "custom": "com.atlassian.plugins.atlassian-connect-plugin:com.herocoders.plugins.jira.issuechecklist-free__issue-checklist-templates",
+            "customId": 10472
+          },
+          "10473": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10473
+          },
+          "10474": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 10474
+          },
+          "10475": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10475
+          },
+          "10476": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10476
+          },
+          "10477": {
+            "type": "option",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+            "customId": 10477
+          },
+          "10478": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+            "customId": 10478
+          },
+          "11480": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 11480
+          },
+          "11481": {
+            "type": "string",
+            "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+            "customId": 11481
+          }
+        },
+        "jqlAutocomplete": {
+          "fields": [],
+          "functions": {}
+        }
+      },
+      "username": "helong@ciandt.com",
+      "bareToken": "ATATT3xFfGF0PpWIoFgzJcsMsB3DZ9LswPRSp5l89L8mZnz6fXPc17ASibaC1JFts2TxmUqvXvf6RgHq1FRzJgSHAZIHp3N4Yy0MU9jFNzlAEwlcJwBQXFBMwnQCmHDzMhMVHgM68QkGhOaGHfEP7rRdKmd47YlzBVb_SYO6S7E8Y9rKRkpM0Uo=EEA429AA"
+    }
+  ],
+  "apiBasePath": "/rest/api/latest",
+  "cacheTime": "15m",
+  "searchResultsLimit": 25,
+  "cache": {
+    "columns": []
+  },
+  "colorSchema": "FOLLOW_OBSIDIAN",
+  "inlineIssueUrlToTag": true,
+  "inlineIssuePrefix": "JIRA:",
+  "showColorBand": true,
+  "showJiraLink": true,
+  "searchColumns": [
+    {
+      "type": "KEY",
+      "compact": false
+    },
+    {
+      "type": "SUMMARY",
+      "compact": false
+    },
+    {
+      "type": "TYPE",
+      "compact": true
+    },
+    {
+      "type": "CREATED",
+      "compact": false
+    },
+    {
+      "type": "UPDATED",
+      "compact": false
+    },
+    {
+      "type": "REPORTER",
+      "compact": false
+    },
+    {
+      "type": "ASSIGNEE",
+      "compact": false
+    },
+    {
+      "type": "PRIORITY",
+      "compact": true
+    },
+    {
+      "type": "STATUS",
+      "compact": false
+    }
+  ],
+  "logRequestsResponses": false,
+  "logImagesFetch": false,
+  "jqlAutocomplete": null,
+  "customFieldsIdToName": null,
+  "customFieldsNameToId": null,
+  "statusColorCache": null
+}

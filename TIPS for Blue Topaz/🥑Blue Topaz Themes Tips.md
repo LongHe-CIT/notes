@@ -391,9 +391,9 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 <aside><h2> Your words </h2></aside>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 
 ## 勾选框
-- [<] 自定义
-	- [+] add
-- [>] 自定义
+- [x] 自定义
+	- [x] add
+- [x] 自定义
 - [!] ideas
 - [?] questions
 - [ ] checked
@@ -405,7 +405,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 
 1. [ ] aaa
 	1. [!] xxx
-		1. [?] 444
+		1. [x] 444
 		2. [<] 444
 2. [>] aaa
 	1. [<] aaa

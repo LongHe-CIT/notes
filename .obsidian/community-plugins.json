@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-jira-issue",
+  "obsidian-kanban"
 ]
