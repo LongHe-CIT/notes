@@ -12,6 +12,16 @@ created: 2022-08-13 12:45:38
 ## 视频教程
 [告别单调的Obsidian，Ob的版面也可以丰富起来！ (bilibili.com)](https://www.bilibili.com/video/BV1G5411U7m8/)
 
+> [!note]+
+> sadfsdf
+> sdafasd
+> sadfas
+> sadfas
+> fsdaf
+> dsfas
+> dfsad
+> f
+
 ## 目前支持的样式列表
 ## 官方示例
 ### 提示框类型

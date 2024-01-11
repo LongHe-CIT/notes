@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
-                "mode": "source",
+                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,6 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
-        "dimension": 69.23611111111111,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md"
+                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md"
               }
             }
           },
@@ -160,21 +159,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "780256533b2ba1b1",
-        "type": "tabs",
-        "dimension": 30.763888888888893,
-        "children": [
-          {
-            "id": "ddf71b4ff09e5fbc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +177,7 @@
   },
   "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "TIPS for Blue Topaz/Example/ÕæKanban.md",
     "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
@@ -201,7 +186,6 @@
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
     "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
