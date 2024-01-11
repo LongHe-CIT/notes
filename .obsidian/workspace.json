@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-01-10.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -78,7 +78,6 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
-        "dimension": 58.05555555555556,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -129,36 +128,13 @@
                 "file": "2024-01-10.md"
               }
             }
-          },
-          {
-            "id": "6cdfe45f037a8c77",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "551836b2b3210afb",
-        "type": "tabs",
-        "dimension": 41.94444444444444,
-        "children": [
-          {
-            "id": "8460f5238315781f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 632.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,12 +143,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "8460f5238315781f",
+  "active": "b604b4a967c63a3d",
   "lastOpenFiles": [
+    "CoverMore/CoverMore.md",
+    "2024-01-11.md",
+    "2024-01-10.md",
     "notes-main.md",
     "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
     "files/zsh-syntax-highlighting/release.md",
@@ -180,7 +158,6 @@
     "CoverMore/Jira Board.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
-    "2024-01-10.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
@@ -201,7 +178,6 @@
     "Excalidraw/Drawing 2024-01-10 16.41.38.excalidraw.md",
     "README.md",
     "Notes/2023-12-04.md",
-    "CoverMore/CoverMore.md",
     "Notes/2024-01-10.md",
     "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
     "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
@@ -209,7 +185,6 @@
     "Excalidraw/Scripts",
     "main.canvas",
     "未命名.md",
-    "Notes/2023-12-14.md",
     "Excalidraw",
     "CoverMore",
     "CoverMore/Jira Board",
