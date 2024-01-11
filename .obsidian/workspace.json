@@ -11,8 +11,12 @@
             "id": "33fa3d8d05475310",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoverMore/CoverMore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoverMore/CoverMore.md"
+              }
             }
           },
           {
@@ -153,9 +161,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "26df17fbf6b5952a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "bef1037d9cdb5bc9",
@@ -184,18 +200,20 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33fa3d8d05475310",
+  "active": "26df17fbf6b5952a",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
     "CoverMore/CoverMore.md",
     "asdlkfajsldf\n.md",
     "APACP1.md",
     "APACP.md",
     "111.md",
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
@@ -214,7 +232,6 @@
     "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
     "TIPS for Blue Topaz/Example/ÕæKanban.md",
     "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
-    "TIPS for Blue Topaz/Example/timeline callout效果.md",
     "main.canvas",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
