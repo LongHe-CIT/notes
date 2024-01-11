@@ -6,16 +6,15 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Sprint APACP-2401 @{2024-01-23}
 - [ ] Sprint APACP-2402 @{2024-02-06}
+- [ ] Sprint APACP-2401 @{2024-01-23}
 
 
 ## Ready For QA
 
-- [ ] Sprint APACP-2401 @{2024-01-23}
-- [x] - [ ] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
-- [ ] - [ ] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
 - [ ] Sprint APACP-2402 @{2024-02-06}
+- [ ] - [ ] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
+- [x] - [ ] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
 
 
 ## Ready For UAT
@@ -36,6 +35,7 @@ kanban-plugin: basic
 
 ## 归档
 
+- [ ] Sprint APACP-2401 @{2024-01-23}
 
 
 
