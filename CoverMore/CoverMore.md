@@ -60,3 +60,15 @@ PANDA-AU
 |  |  |
 | AU | https://citest0103.dev.insurancebycovermore.com/ |
 | NZ | https://citest0103nz.dev.insurancebycovermore.com/ |
+
+
+| **site** | **link** |
+| ---- | ---- |
+| royalcaribbean - Panda | [https://royalcaribbean.dev-innateacsf.acsitefactory.com/](https://royalcaribbean.dev-innateacsf.acsitefactory.com/) |
+| Celebrity | [https://celebritycruises.dev.insurancebycovermore.com/](https://celebritycruises.dev.insurancebycovermore.com/) |
+| TOMz | [https://travelmoneyoz.dev.insurancebycovermore.com/](https://travelmoneyoz.dev.insurancebycovermore.com/) |
+| EasyTravel （Panda） | [https://easytravelinsurance.dev.insurancebycovermore.com/](https://easytravelinsurance.dev.insurancebycovermore.com/) |
+| Cgu | [https://cgu.dev.insurancebycovermore.com](https://cgu.dev.insurancebycovermore.com) |
+| Bendigobank | [https://bendigobank.dev.insurancebycovermore.com](https://bendigobank.dev.insurancebycovermore.com) |
+| Queenslandcountrybank | [https://queenslandcountrybank.dev.insurancebycovermore.com](https://queenslandcountrybank.dev.insurancebycovermore.com) |
+| bupa | [https://bupa.dev.insurancebytravelinsurancepartners.com/](https://bupa.dev.insurancebytravelinsurancepartners.com/) |
