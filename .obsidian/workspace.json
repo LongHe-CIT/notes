@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-                "mode": "preview",
+                "file": "CoverMore/CoverMore.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,14 +23,11 @@
             "id": "de18be6a2f17b018",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "main.canvas",
-                "viewState": {
-                  "x": -1030,
-                  "y": -9.40714718352524,
-                  "zoom": -0.24604064469043715
-                }
+                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -198,35 +195,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dbb8197795f80b5b",
+  "active": "33fa3d8d05475310",
   "lastOpenFiles": [
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
+    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
+    "TIPS for Blue Topaz/Example/Word count.md",
+    "TIPS for Blue Topaz/Example/È«¿í±í¸ñÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
+    "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
+    "TIPS for Blue Topaz/Example/ÕæKanban.md",
+    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
+    "TIPS for Blue Topaz/Example/timeline callout效果.md",
+    "TIPS for Blue Topaz/Example/77-Example.md",
+    "main.canvas",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
-    "TIPS for Blue Topaz/Example/timeline callout效果.md",
-    "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
     "TIPS for Blue Topaz/Example/card 2.md",
     "TIPS for Blue Topaz/Example/card4.md",
-    "TIPS for Blue Topaz/Example/Word count.md",
-    "main.canvas",
     "CoverMore/Jira Board.md",
     "Notes/2023-12-04.md",
     "Notes/2023-12-05.md",
     "Notes/2023-12-06.md",
     "Notes/2023-12-12.md",
-    "Notes/2023-12-13.md",
-    "Notes/2023-12-14.md",
-    "Notes/2024-01-10.md",
-    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
-    "CoverMore/CoverMore.md",
-    "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
-    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
-    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
-    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
