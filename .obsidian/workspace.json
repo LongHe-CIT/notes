@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+                "file": "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33fa3d8d05475310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -151,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "780256533b2ba1b1",
@@ -183,17 +196,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a286310e151a062",
+  "active": "33fa3d8d05475310",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "CoverMore/CoverMore.md",
+    "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
     "2024-01-10.md",
     "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
-    "CoverMore/CoverMore.md",
     "main.canvas",
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
@@ -210,8 +225,6 @@
     "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/callout ±ãÇ©Ð§¹û.md",
     "TIPS for Blue Topaz/Example/½ø¶ÈÌõÑùÊ½Æ¬¶Î.md",
-    "TIPS for Blue Topaz/Example/77-Example.md",
-    "TIPS for Blue Topaz/Example/±í¸ñ×Ô¶¨ÒåÑùÊ½.md",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
