@@ -35,3 +35,18 @@ see password
 ./devops/scripts/drush.sh @cgu.01dev cget shield.settings
 ```
 
+Paypal
+```php
+$config['payment.settings']['paypal']['clientId'] = 'ARrSbHbrB2jxyGjKUeGA19eJxLJHLwDTfuOTfgOlRsGPD963ioSqXf-Wfx2MIMtdYVyEsAVDRVrl_Ack';
+
+$config['payment.settings']['paypal']['clientSecret'] = 'EOQ4KxVTDh19Bt3HV1T4B55IYkn11Qv3AvCQVE3pVjb3THh9k5AHEn0HX4YcjO0EYGBkwaIdtpRUTk1W';
+```
+
+| Panda Sites | Url |
+| :--- | ---- |
+| RCI | https://royalcaribbean.dev.insurancebycovermore.com/ |
+| Tmoz | https://travelmoneyoz.dev.insurancebycovermore.com/ |
+| Cgu | https://cgu.dev.insurancebycovermore.com/ |
+| Queen | https://queenslandcountrybank.dev.insurancebycovermore.com |
+| Bend | https://bendigobank.dev.insurancebycovermore.com/ |
+| Cel | https://celebritycruises.dev.insurancebycovermore.com/ |
