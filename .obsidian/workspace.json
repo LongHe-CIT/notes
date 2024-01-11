@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-12-04.md",
+                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
                 "mode": "preview",
                 "source": false
               }
@@ -27,9 +27,9 @@
               "state": {
                 "file": "main.canvas",
                 "viewState": {
-                  "x": -340,
-                  "y": 540,
-                  "zoom": 0
+                  "x": -1030,
+                  "y": -9.40714718352524,
+                  "zoom": -0.24604064469043715
                 }
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "隐藏框",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,6 +105,7 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
+        "dimension": 72.91666666666666,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-12-04.md",
+                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-12-04.md",
+                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-12-04.md"
+                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md"
               }
             }
           },
@@ -163,7 +164,15 @@
               "type": "git-view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "bef1037d9cdb5bc9",
+        "type": "tabs",
+        "dimension": 27.083333333333332,
+        "children": [
           {
             "id": "371a4a7f31b855e6",
             "type": "leaf",
@@ -172,8 +181,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,8 +198,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "33fa3d8d05475310",
+  "active": "dbb8197795f80b5b",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
+    "TIPS for Blue Topaz/Example/timeline callout效果.md",
+    "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
+    "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
+    "TIPS for Blue Topaz/Example/card 2.md",
+    "TIPS for Blue Topaz/Example/card4.md",
+    "TIPS for Blue Topaz/Example/Word count.md",
+    "main.canvas",
+    "CoverMore/Jira Board.md",
+    "Notes/2023-12-04.md",
     "Notes/2023-12-05.md",
     "Notes/2023-12-06.md",
     "Notes/2023-12-12.md",
@@ -199,26 +222,11 @@
     "Notes/2023-12-14.md",
     "Notes/2024-01-10.md",
     "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
-    "main.canvas",
     "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
-    "Word count.md",
-    "ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
-    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
-    "TIPS for Blue Topaz/Example/Í¿ºÚºÍÍÚ¿ÕÐ§¹û£¨ÈýÖÖÓï·¨£©.md",
-    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
-    "TIPS for Blue Topaz/Example/ÕæKanban.md",
-    "card4.md",
-    "card 2.md",
-    "timeline callout效果.md",
-    "files/zsh-syntax-highlighting/COPYING.md",
-    "files/zsh-syntax-highlighting/changelog.md",
-    "files/zsh-syntax-highlighting/release.md",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",

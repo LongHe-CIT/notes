@@ -9,5 +9,11 @@
   "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
   "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime"
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime",
+  "blue-topaz-theme@@full-width-backlinks": false,
+  "blue-topaz-theme@@memos-inputbox": false,
+  "blue-topaz-theme@@style-options-for-kanban-plugin-dynamic": "style-options-for-kanban-plugin-dynamic-default",
+  "blue-topaz-theme@@rainbow-checklist": false,
+  "blue-topaz-theme@@admonition-bg-color-same": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default"
 }
