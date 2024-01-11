@@ -23,11 +23,9 @@
             "id": "6a286310e151a062",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-                "mode": "preview",
-                "source": false
+                "file": "CoverMore/Jira Board.md"
               }
             }
           }
@@ -61,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "date",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 388.5
   },
   "right": {
     "id": "d0666f3aa655e56b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+                "file": "CoverMore/Jira Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+                "file": "CoverMore/Jira Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md"
+                "file": "CoverMore/Jira Board.md"
               }
             }
           },
@@ -151,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "780256533b2ba1b1",
@@ -186,9 +183,11 @@
   },
   "active": "6a286310e151a062",
   "lastOpenFiles": [
+    "CoverMore/CoverMore.md",
+    "main.canvas",
+    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
     "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
@@ -210,9 +209,6 @@
     "TIPS for Blue Topaz/Example/½ø¶ÈÌõÑùÊ½Æ¬¶Î.md",
     "TIPS for Blue Topaz/Example/77-Example.md",
     "TIPS for Blue Topaz/Example/±í¸ñ×Ô¶¨ÒåÑùÊ½.md",
-    "TIPS for Blue Topaz/Example/¸÷ÀàÁÐ±íºÍ²Êºç´ó¸ÙÏß.md",
-    "TIPS for Blue Topaz/Example/¸÷¼¶±êÌâÊ¾Àý.md",
-    "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
