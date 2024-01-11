@@ -9,7 +9,7 @@
   "new-note-template": "CoverMore/Jira Board/Base.md",
   "new-note-folder": "CoverMore/Jira Board",
   "append-archive-date": true,
-  "show-checkboxes": true,
+  "show-checkboxes": false,
   "archive-with-date": true,
   "show-relative-date": false,
   "hide-date-display": false,

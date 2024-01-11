@@ -11,9 +11,11 @@
             "id": "e9f7540ec61c1039",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dailynote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
               }
             }
           },
@@ -189,11 +192,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e9f7540ec61c1039",
+  "active": "0d72e70b6d3e9afa",
   "lastOpenFiles": [
-    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
+    "TIPS for Blue Topaz/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
+    "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
+    "TIPS for Blue Topaz/Example/¸÷¼¶±êÌâÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/Example/È«¿í±í¸ñÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/callout ±ãÇ©Ð§¹û.md",
@@ -201,12 +210,9 @@
     "TIPS for Blue Topaz/Example/77-Example.md",
     "TIPS for Blue Topaz/Example/±í¸ñ×Ô¶¨ÒåÑùÊ½.md",
     "TIPS for Blue Topaz/Example/¸÷ÀàÁÐ±íºÍ²Êºç´ó¸ÙÏß.md",
-    "TIPS for Blue Topaz/Example/¸÷¼¶±êÌâÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/¶à²Ê¸ßÁÁ£¨ÈýÖÖÓï·¨£©.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
     "TIPS for Blue Topaz/Example/Reading/Ôú¿Ë¡¤Ê©ÄÎµÂ°æÕýÒåÁªÃË Zack Snyder's Justice League.md",
-    "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
     "TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
     "TIPS for Blue Topaz/Example/Reading/°ÔÍõ±ð¼§.md",
     "TIPS for Blue Topaz/Example/Reading/¡¶Á­µ¶Óë³ÇÊÐ¡·.md",
@@ -214,9 +220,6 @@
     "TIPS for Blue Topaz/Example/Reading/¡¶ÊÀ½çÊÇÈçºÎË¼¿¼µÄ¡·.md",
     "TIPS for Blue Topaz/Example/Reading/¡¶±ÊÐÑÉ½ºÓ¡·.md",
     "TIPS for Blue Topaz/Example/Reading/¡¶´ÓÁã¿ªÊ¼µÄÅ®ÐÔÖ÷Òå¡·.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
