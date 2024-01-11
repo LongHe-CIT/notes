@@ -24,8 +24,8 @@ https://innate.atlassian.net/browse/APACP-976
 ```
 
 - [x] [APACP-856](https://innate.atlassian.net/browse/APACP-856)  
-- [ ] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
-- [ ] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
+- [x] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
+- [x] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
 
 - [ ] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
 - [ ] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
@@ -57,7 +57,8 @@ PANDA-AU
 | Cel | https://celebritycruises.dev.insurancebycovermore.com/ |
 | Bupa | https://bupa.dev.insurancebytravelinsurancepartners.com/ |
 | EasyTravel | https://easytravelinsurance.dev.insurancebycovermore.com/ |
-|  |  |
+| travelassociates | https://travelassociates.insurancebycovermore.com/ |
 | AU | https://citest0103.dev.insurancebycovermore.com/ |
 | NZ | https://citest0103nz.dev.insurancebycovermore.com/ |
+|  |  |
 
