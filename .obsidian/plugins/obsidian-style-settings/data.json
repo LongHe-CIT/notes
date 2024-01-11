@@ -4,5 +4,10 @@
   "blue-topaz-theme@@toggle-calendar-shadow": true,
   "blue-topaz-theme@@toggle-calendar-transparent": false,
   "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-two",
-  "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-all-color"
+  "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-all-color",
+  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
+  "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime"
 }
