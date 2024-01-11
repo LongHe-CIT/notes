@@ -57,3 +57,6 @@ PANDA-AU
 | Cel | https://celebritycruises.dev.insurancebycovermore.com/ |
 | Bupa | https://bupa.dev.insurancebytravelinsurancepartners.com/ |
 | EasyTravel | https://easytravelinsurance.dev.insurancebycovermore.com/ |
+|  |  |
+| AU | https://citest0103.dev.insurancebycovermore.com/ |
+| NZ | https://citest0103nz.dev.insurancebycovermore.com/ |
