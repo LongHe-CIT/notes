@@ -35,23 +35,15 @@ see password
 ./devops/scripts/drush.sh @cgu.01dev cget shield.settings
 ```
 
-Paypal 配置
-```ad-tip
-1.登录到站点上去（ssh）以BUPA举例 
-./devops/scripts/drush.sh @bupa.01dev ssh  
-
-2. 跳到站点目录 
-cd /mnt/gfs/innateacsf.01dev  
-
-3. 打开secret文件把信息添加上去（这个文件对应本地docroot/sites/shared-local.settings.php） 
-vim secrets.settings.php
-```
 
 > [!Paypal 配置] 
+> 
 > 1.登录到站点上去（ssh）以BUPA举例 
-> - ./devops/scripts/drush.sh @bupa.01dev ssh  
-> 2. 跳到站点目录 
-> - 55555
+> `./devops/scripts/drush.sh @bupa.01dev ssh`  
+> 2.跳到站点目录 
+> `cd /mnt/gfs/innateacsf.01dev`  
+> 3.打开secret文件把信息添加上去（这个文件对应本地docroot/sites/shared-local.settings.php） 
+> `vim secrets.settings.php`
 
 PANDA-AU 
 

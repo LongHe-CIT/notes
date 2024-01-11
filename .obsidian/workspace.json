@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
+                "file": "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -184,8 +183,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a286310e151a062",
+  "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
+    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
+    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
+    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "TIPS for Blue Topaz/Example/ÕæKanban.md",
+    "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
+    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
+    "TIPS for Blue Topaz/Example/Í¿ºÚºÍÍÚ¿ÕÐ§¹û£¨ÈýÖÖÓï·¨£©.md",
+    "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
     "TIPS for Blue Topaz/Example/È«¿í±í¸ñÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/callout ±ãÇ©Ð§¹û.md",
@@ -199,19 +211,6 @@
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "CoverMore/Jira Board.md",
     "CoverMore/CoverMore.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
