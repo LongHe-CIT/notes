@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "hibox": {
+      "type": "hibox",
+      "color": "94, 65, 175",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-edit-2"
+      },
+      "command": true,
+      "title": "hibox",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.1.1",

@@ -8,5 +8,6 @@
   "dataview",
   "calendar",
   "obsidian-hover-editor",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-linter"
 ]
