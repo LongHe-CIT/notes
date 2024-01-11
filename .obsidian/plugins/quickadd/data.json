@@ -4,11 +4,11 @@
       "id": "59d3aeb2-ef05-46f4-a464-9c3405bdca3f",
       "name": "test",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Template/Biji Template.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "APACP"
       },
       "folder": {
         "enabled": false,
@@ -19,14 +19,14 @@
       },
       "appendLink": false,
       "openFileInNewTab": {
-        "enabled": false,
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],
