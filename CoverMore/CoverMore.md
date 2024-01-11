@@ -23,7 +23,7 @@ APACP-230
 https://innate.atlassian.net/browse/APACP-976
 ```
 
-- [ ] [APACP-856](https://innate.atlassian.net/browse/APACP-856)  asdasda asd asd
+- [ ] [APACP-856](https://innate.atlassian.net/browse/APACP-856)  
 - [ ] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
 - [ ] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
 
