@@ -23,9 +23,11 @@
             "id": "6a286310e151a062",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md"
               }
             }
           },
@@ -183,15 +185,16 @@
   },
   "active": "6a286310e151a062",
   "lastOpenFiles": [
+    "2024-01-10.md",
+    "CoverMore/Jira Board.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
     "CoverMore/CoverMore.md",
     "main.canvas",
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
     "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/03 - FlatBlue.md",
-    "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
