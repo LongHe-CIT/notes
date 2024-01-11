@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dailynote",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
+                "file": "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md"
               }
             }
           },
@@ -192,14 +191,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0d72e70b6d3e9afa",
+  "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/Example/ÕæKanban.md",
+    "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "TIPS for Blue Topaz/Example/77-Example.md",
+    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
+    "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
+    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
     "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/¸÷¼¶±êÌâÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "CoverMore/Jira Board.md",
@@ -207,19 +217,8 @@
     "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/callout ±ãÇ©Ð§¹û.md",
     "TIPS for Blue Topaz/Example/½ø¶ÈÌõÑùÊ½Æ¬¶Î.md",
-    "TIPS for Blue Topaz/Example/77-Example.md",
     "TIPS for Blue Topaz/Example/±í¸ñ×Ô¶¨ÒåÑùÊ½.md",
     "TIPS for Blue Topaz/Example/¸÷ÀàÁÐ±íºÍ²Êºç´ó¸ÙÏß.md",
-    "TIPS for Blue Topaz/Example/¶à²Ê¸ßÁÁ£¨ÈýÖÖÓï·¨£©.md",
-    "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
-    "TIPS for Blue Topaz/Example/Reading/Ôú¿Ë¡¤Ê©ÄÎµÂ°æÕýÒåÁªÃË Zack Snyder's Justice League.md",
-    "TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
-    "TIPS for Blue Topaz/Example/Reading/°ÔÍõ±ð¼§.md",
-    "TIPS for Blue Topaz/Example/Reading/¡¶Á­µ¶Óë³ÇÊÐ¡·.md",
-    "TIPS for Blue Topaz/Example/Reading/»¨Êø°ãµÄÁµ°® »¨Êø¤ß¤¿¤¤¤ÊÁµ¤ò¤·¤¿.md",
-    "TIPS for Blue Topaz/Example/Reading/¡¶ÊÀ½çÊÇÈçºÎË¼¿¼µÄ¡·.md",
-    "TIPS for Blue Topaz/Example/Reading/¡¶±ÊÐÑÉ½ºÓ¡·.md",
-    "TIPS for Blue Topaz/Example/Reading/¡¶´ÓÁã¿ªÊ¼µÄÅ®ÐÔÖ÷Òå¡·.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
