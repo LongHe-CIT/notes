@@ -78,7 +78,7 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
-        "dimension": 64.42125237191651,
+        "dimension": 58.05555555555556,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -144,7 +144,7 @@
       {
         "id": "551836b2b3210afb",
         "type": "tabs",
-        "dimension": 35.57874762808349,
+        "dimension": 41.94444444444444,
         "children": [
           {
             "id": "8460f5238315781f",
@@ -171,7 +171,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e9f7540ec61c1039",
+  "active": "8460f5238315781f",
   "lastOpenFiles": [
     "notes-main.md",
     "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
