@@ -11,11 +11,9 @@
             "id": "e9f7540ec61c1039",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
-                "mode": "source",
-                "source": false
+                "file": "CoverMore/Jira Board.md"
               }
             }
           },
@@ -39,8 +37,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "CoverMore/Jira Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+                "file": "CoverMore/Jira Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md"
+                "file": "CoverMore/Jira Board.md"
               }
             }
           },
@@ -192,8 +189,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a286310e151a062",
+  "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/Example/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/È«¿í±í¸ñÊ¾Àý.md",
     "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
@@ -218,8 +217,6 @@
     "TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/07 - Center Table.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red rounded.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
