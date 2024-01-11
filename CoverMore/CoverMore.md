@@ -42,7 +42,10 @@ $config['payment.settings']['paypal']['clientId'] = 'ARrSbHbrB2jxyGjKUeGA19eJxLJ
 $config['payment.settings']['paypal']['clientSecret'] = 'EOQ4KxVTDh19Bt3HV1T4B55IYkn11Qv3AvCQVE3pVjb3THh9k5AHEn0HX4YcjO0EYGBkwaIdtpRUTk1W';
 ```
 
-| Panda Sites | Url |
+
+PANDA-AU 
+
+| site | link |
 | :--- | ---- |
 | RCI | https://royalcaribbean.dev.insurancebycovermore.com/ |
 | Tmoz | https://travelmoneyoz.dev.insurancebycovermore.com/ |
@@ -50,3 +53,5 @@ $config['payment.settings']['paypal']['clientSecret'] = 'EOQ4KxVTDh19Bt3HV1T4B55
 | Queen | https://queenslandcountrybank.dev.insurancebycovermore.com |
 | Bend | https://bendigobank.dev.insurancebycovermore.com/ |
 | Cel | https://celebritycruises.dev.insurancebycovermore.com/ |
+| Bupa | https://bupa.dev.insurancebytravelinsurancepartners.com/ |
+| EasyTravel | https://easytravelinsurance.dev.insurancebycovermore.com/ |
