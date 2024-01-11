@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "6a286310e151a062",
+            "id": "de18be6a2f17b018",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md"
+                "file": "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -36,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Word count.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md",
+                "file": "Word count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md",
+                "file": "Word count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md"
+                "file": "Word count.md"
               }
             }
           },
@@ -186,16 +188,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a286310e151a062",
+  "active": "ae166eb471ba2d67",
   "lastOpenFiles": [
-    "card4.md",
-    "TIPS for Blue Topaz/Example/ÕæKanban.md",
-    "card 2.md",
     "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "TIPS for Blue Topaz/Example/Í¼Æ¬ºáÅÅ²¼¾ÖÒÔ¼°Ìí¼Ó±êÌâ.md",
+    "ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
+    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
+    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
+    "TIPS for Blue Topaz/Example/Í¿ºÚºÍÍÚ¿ÕÐ§¹û£¨ÈýÖÖÓï·¨£©.md",
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "TIPS for Blue Topaz/Example/ÕæKanban.md",
+    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
+    "card4.md",
+    "card 2.md",
     "Word count.md",
     "timeline callout效果.md",
-    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "files/zsh-syntax-highlighting/COPYING.md",
     "files/zsh-syntax-highlighting/changelog.md",
     "files/zsh-syntax-highlighting/release.md",
@@ -209,13 +218,6 @@
     "files/zsh-syntax-highlighting/images/after1.png",
     "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "TIPS for Blue Topaz/Example/77-Example.md",
-    "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
