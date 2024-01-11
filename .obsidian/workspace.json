@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9f7540ec61c1039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
                 "mode": "preview",
                 "source": false
@@ -35,16 +23,26 @@
             "id": "6a286310e151a062",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md"
+              }
+            }
+          },
+          {
+            "id": "ae166eb471ba2d67",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-                "mode": "preview",
+                "file": "Word count.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md"
+                "file": "TIPS for Blue Topaz/Example/ÕæKanban.md"
               }
             }
           },
@@ -188,13 +186,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a3211e8ce8fb83f",
+  "active": "6a286310e151a062",
   "lastOpenFiles": [
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
-    "CoverMore/CoverMore.md",
-    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "card4.md",
     "TIPS for Blue Topaz/Example/ÕæKanban.md",
+    "card 2.md",
+    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "Word count.md",
+    "timeline callout效果.md",
+    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
+    "files/zsh-syntax-highlighting/COPYING.md",
+    "files/zsh-syntax-highlighting/changelog.md",
+    "files/zsh-syntax-highlighting/release.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/main.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/pattern.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/regexp.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/root.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/line.md",
+    "files/zsh-syntax-highlighting/docs/highlighters/brackets.md",
+    "files/zsh-syntax-highlighting/images/after2-smaller.png",
+    "files/zsh-syntax-highlighting/images/after1.png",
+    "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/ÈÎÎñ¿¨Æ¬-dataview ÈÎÎñ²éÑ¯¾ÙÀý.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "TIPS for Blue Topaz/Example/77-Example.md",
@@ -203,19 +216,6 @@
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
-    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
-    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
-    "TIPS for Blue Topaz/µçÓ°¹Û¿´Çåµ¥£¨dv£©.md",
-    "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
-    "TIPS for Blue Topaz/Example/¸÷¼¶±êÌâÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/Reading/ÐÛÊ¨ÉÙÄê.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "CoverMore/Jira Board.md",
-    "TIPS for Blue Topaz/Example/È«¿í±í¸ñÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/Callout»·ÈÆ²¼¾Ö¡¢Ëõ½øÐ§¹ûÊ¾Àý.md",
-    "TIPS for Blue Topaz/Example/callout ±ãÇ©Ð§¹û.md",
-    "TIPS for Blue Topaz/Example/½ø¶ÈÌõÑùÊ½Æ¬¶Î.md",
-    "TIPS for Blue Topaz/Example/±í¸ñ×Ô¶¨ÒåÑùÊ½.md",
     "main.canvas",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
@@ -235,8 +235,6 @@
     "CoverMore",
     "files/zsh-syntax-highlighting/tests/test-zprof.zsh",
     "files/zsh-syntax-highlighting/tests/test-perfs.zsh",
-    "files/zsh-syntax-highlighting/tests/test-highlighting.zsh",
-    "files/zsh-syntax-highlighting/images/preview.png",
-    "files/zsh-syntax-highlighting/images/preview-smaller.png"
+    "files/zsh-syntax-highlighting/tests/test-highlighting.zsh"
   ]
 }
