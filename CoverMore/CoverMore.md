@@ -49,18 +49,17 @@ PANDA-AU
 
 | site             | link                                                       |
 |:---------------- | ---------------------------------------------------------- |
-| RCI              | https://royalcaribbean.dev.insurancebycovermore.com/       |
+| travelassociates | https://travelassociates.insurancebycovermore.com/         |
 | Tmoz             | https://travelmoneyoz.dev.insurancebycovermore.com/        |
-| Cgu              | https://cgu.dev.insurancebycovermore.com/                  |
+| RCI              | https://royalcaribbean.dev.insurancebycovermore.com/       |
 | Queen            | https://queenslandcountrybank.dev.insurancebycovermore.com |
-| Bend             | https://bendigobank.dev.insurancebycovermore.com/          |
+| NZ               | https://citest0103nz.dev.insurancebycovermore.com/         |
+| EasyTravel       | https://easytravelinsurance.dev.insurancebycovermore.com/  |
+| Cgu              | https://cgu.dev.insurancebycovermore.com/                  |
 | Cel              | https://celebritycruises.dev.insurancebycovermore.com/     |
 | Bupa             | https://bupa.dev.insurancebytravelinsurancepartners.com/   |
-| EasyTravel       | https://easytravelinsurance.dev.insurancebycovermore.com/  |
-| travelassociates | https://travelassociates.insurancebycovermore.com/         |
+| Bend             | https://bendigobank.dev.insurancebycovermore.com/          |
 | AU               | https://citest0103.dev.insurancebycovermore.com/           |
-| NZ               | https://citest0103nz.dev.insurancebycovermore.com/         |
 |                  |                                                            |
 
 
- 	
