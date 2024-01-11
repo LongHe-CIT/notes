@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
-                "mode": "preview",
+                "file": "CoverMore/CoverMore.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
       {
         "id": "146d9d7295279f05",
         "type": "tabs",
-        "dimension": 72.91666666666666,
+        "dimension": 72.91666666666667,
         "children": [
           {
             "id": "40da767ac879b562",
@@ -168,7 +169,7 @@
       {
         "id": "bef1037d9cdb5bc9",
         "type": "tabs",
-        "dimension": 27.083333333333332,
+        "dimension": 27.083333333333336,
         "children": [
           {
             "id": "371a4a7f31b855e6",
@@ -195,19 +196,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "33fa3d8d05475310",
+  "active": "ae166eb471ba2d67",
   "lastOpenFiles": [
+    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "TIPS for Blue Topaz/Example/obsidian Roundup Newsletter.md",
+    "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/01 - Default Table.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "CoverMore/CoverMore.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/◾ TableExample.md",
     "TIPS for Blue Topaz/Example/·ÖÀ¸Ð§¹ûÊ¾Àý.md",
-    "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
@@ -223,7 +225,6 @@
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "TIPS for Blue Topaz/Example/´ÓÕâ¿ªÊ¼.md",
     "TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "TIPS for Blue Topaz/Example/◾ TableExample/02 - PurpleRed.md",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
