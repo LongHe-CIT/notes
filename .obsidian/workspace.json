@@ -11,8 +11,12 @@
             "id": "e9f7540ec61c1039",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoverMore/CoverMore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoverMore/CoverMore.md"
+              }
             }
           },
           {
@@ -136,7 +144,7 @@
       {
         "id": "780256533b2ba1b1",
         "type": "tabs",
-        "dimension": 30.76388888888889,
+        "dimension": 30.763888888888893,
         "children": [
           {
             "id": "ddf71b4ff09e5fbc",
@@ -163,7 +171,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a3211e8ce8fb83f",
+  "active": "e9f7540ec61c1039",
   "lastOpenFiles": [
     "main.canvas",
     "2024-01-10.md",

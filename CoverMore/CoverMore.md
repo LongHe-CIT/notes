@@ -30,3 +30,8 @@ https://innate.atlassian.net/browse/APACP-976
 - [ ] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
 - [ ] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
 
+see password
+```shell
+./devops/scripts/drush.sh @cgu.01dev cget shield.settings
+```
+
