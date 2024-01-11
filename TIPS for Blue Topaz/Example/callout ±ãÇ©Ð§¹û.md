@@ -23,38 +23,37 @@
 
 内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容
 内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容
-```ad-flex
-> [!stickies3] 
->  ![[obsidian_image.png|inl|30]]
->  ***Obsidian是一款优秀的前端设计软件***
-> A second brain,
-> for you, forever.
+> [!flex]
+> > [!stickies3] 
+> >  ![[obsidian_image.png|inl|30]]
+> >  ***Obsidian是一款优秀的前端设计软件***
+> > A second brain,
+> > for you, forever.
+> > 
+> >[obsidian](https://www.sassmeister.com/)
 > 
->[obsidian](https://www.sassmeister.com/)
-
-> [!stickies3|blue] 
+> > [!stickies3|blue] 
+> > 
+> > 今日清单
+> > - 做菜...
+> > - 学习...
+> > - 观影...
+> > - 记录一下
 > 
-> 今日清单
-> - 做菜...
-> - 学习...
-> - 观影...
-> - 记录一下
-
-
-> [!stickies3|pink] 
 > 
-> 工具为我所用
-> 知识才是未来
-> 一个好的工具能事半功倍
-
-> [!stickies3|green]
-> One pill makes you larger, And one pill makes you small
+> > [!stickies3|pink] 
+> > 
+> > 工具为我所用
+> > 知识才是未来
+> > 一个好的工具能事半功倍
 > 
-> [Jefferson Airplane](http://youtu.be/i2LhAeFutxk)
+> > [!stickies3|green]
+> > One pill makes you larger, And one pill makes you small
+> > 
+> > [Jefferson Airplane](http://youtu.be/i2LhAeFutxk)
+> > 
 > 
-
-
-```
+> 
 
 > [!stickies3|blue] 
 >  Troubleshooting any problem without

@@ -8,13 +8,12 @@ aliases:
 
 # TIPS
 
-```ad-col2
-这是Blue Topaz的演示库简化版本，高级版本请从github获取 [Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples)。附带了Style Settings插件与Admonition插件。目前支持Live preview模式同时附带了其他一些插件，可供使用。
-需要特别说明的是Codemirror插件，这个插件因为样式比较复杂多变，使用此插件会可能会出现样式上的bug。这里会给出一些Blue Topaz的展示、以及一些特别的用法，希望对你有帮助。
-
-我不确定这个库会被传播到何处，所以给一个发布的QQ群号，也是Topaz社区所在的地方**908688452**。
-开始部分的最后，感谢Topaz社区的各位，没有社区的各位，不会有现在的主题。这个主题献给他们。
-```
+> [!col2]
+> 这是Blue Topaz的演示库简化版本，高级版本请从github获取 [Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples)。附带了Style Settings插件与Admonition插件。目前支持Live preview模式同时附带了其他一些插件，可供使用。
+> 需要特别说明的是Codemirror插件，这个插件因为样式比较复杂多变，使用此插件会可能会出现样式上的bug。这里会给出一些Blue Topaz的展示、以及一些特别的用法，希望对你有帮助。
+> 
+> 我不确定这个库会被传播到何处，所以给一个发布的QQ群号，也是Topaz社区所在的地方**908688452**。
+> 开始部分的最后，感谢Topaz社区的各位，没有社区的各位，不会有现在的主题。这个主题献给他们。
 
 ## 强调
 在笔记中，不可避到一些强调方式，比如加粗、高亮等等，这里做一个展示：
@@ -29,31 +28,27 @@ aliases:
 ==***加粗斜体高亮***==
 ==高亮`行内代码`== (有点怪是吧= =||)
 
-````ad-question
-title: 想要更多的高亮方式？
-collapse: true
-下面的css代码保存成片段即可使用。 [如何使用片段](obsidian://open?vault=Obsidian%20Help&fi le=%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%2F%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)
-```css
-/*实现下面语法高亮颜色不同
-多色高亮1     _==foobar==_  
-多色高亮2     __==foobar==__
-*/
-.markdown-preview-view em > mark, span.cm-em.cm-highlight {
-  background-color: rgb(255, 248, 152);
-}
-
-span.cm-strong.cm-highlight, .markdown-preview-view strong > mark {
-  background-color: rgb(147, 255, 228);
-
-}
-```
-````
+> [!question]- 想要更多的高亮方式？
+> 下面的css代码保存成片段即可使用。 [如何使用片段](obsidian://open?vault=Obsidian%20Help&fi le=%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%2F%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)
+> ```css
+> /*实现下面语法高亮颜色不同
+> 多色高亮1     _==foobar==_  
+> 多色高亮2     __==foobar==__
+> */
+> .markdown-preview-view em > mark, span.cm-em.cm-highlight {
+>   background-color: rgb(255, 248, 152);
+> }
+> 
+> span.cm-strong.cm-highlight, .markdown-preview-view strong > mark {
+>   background-color: rgb(147, 255, 228);
+> 
+> }
+> ```
 
 ---
 
-```ad-tip
-这些强调的使用方式当然是由你决定的，但我建议不要使用过多的强调方式，选择两三种强调方式，赋予它们某种特别含义，保持笔记中用法的一致性。
-```
+> [!tip]
+> 这些强调的使用方式当然是由你决定的，但我建议不要使用过多的强调方式，选择两三种强调方式，赋予它们某种特别含义，保持笔记中用法的一致性。
 
 ## 标签 
 主题中普通标签颜色有九种，颜色按标签位置确定，即使是连续使用相同标签，还是会有各种颜色，如果不喜欢，可以在Style Settings插件里面手动更改颜色。
@@ -68,9 +63,8 @@ span.cm-strong.cm-highlight, .markdown-preview-view strong > mark {
 
 ---
 
-```ad-tip
-至于标签的用法，使用双链和标签的区别。这些不在这个演示库的讨论范围，[具体看帮助](obsidian://open?vault=Obsidian%20Help&file=%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%2F%E6%A0%87%E7%AD%BE%E7%9A%84%E4%BD%BF%E7%94%A8)我相信每个人的用法可能不会完全一样，如果不清楚，可以在开始的时候同时使用双链和标签，一段时间以后，形成了自己的使用偏好，再做调整就好，没下笔之前就想着“完美”的笔记格式不是个好办法。
-```
+> [!tip]
+> 至于标签的用法，使用双链和标签的区别。这些不在这个演示库的讨论范围，[具体看帮助](obsidian://open?vault=Obsidian%20Help&file=%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%2F%E6%A0%87%E7%AD%BE%E7%9A%84%E4%BD%BF%E7%94%A8)我相信每个人的用法可能不会完全一样，如果不清楚，可以在开始的时候同时使用双链和标签，一段时间以后，形成了自己的使用偏好，再做调整就好，没下笔之前就想着“完美”的笔记格式不是个好办法。
 
 ---
 ## 自定义的文本框
@@ -188,14 +182,12 @@ text
 打群主，分bug
 ```
 
-```ad-tip
-admonition里也设置了这种样式，需要在Style Settings插件里启用
-并且在Admonition插件里设置才可以
-```
+> [!tip]
+> admonition里也设置了这种样式，需要在Style Settings插件里启用
+> 并且在Admonition插件里设置才可以
 
-```ad-hibox
-- [ ] 打群主，分bug
-```
+> [!hibox]
+> - [ ] 打群主，分bug
 
 ### 第三种，涂黑挖空 
 Lorem ipsum dolor sit amet, consectetur ==~~adipiscing~~== elit, sed do ==~~eiusmod~~== tempor incididunt ut labore et dolore magna aliqua. （`删除+高亮组合：==~~涂黑~~==`鼠标悬浮触发）
@@ -218,9 +210,8 @@ text
 
 ---
 
-```ad-tips
-这些用法算是给强调文字做一个补充，但是更多的可能是娱乐性质。
-```
+> [!tips]
+> 这些用法算是给强调文字做一个补充，但是更多的可能是娱乐性质。
 
 ## 图片
 插入的图片默认是居中显示，点击图片可以放大
@@ -282,9 +273,8 @@ text
 可用变体 `inline`/`Inline`/`INLINE`/`inl`
 字字字字字![[obsidian_image.png|inl|100]] ![[obsidian_image.png|inline|100]] ![[obsidian_image.png|INLINE|100]]字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字
 
-```ad-tip
-注意使用inlR/inlL和inl的位置，对于inlR和inlL，它们所在行的文字，处在图片的上边界处。而对于inl，所在行的文字在图片的下边界处。
-```
+> [!tip]
+> 注意使用inlR/inlL和inl的位置，对于inlR和inlL，它们所在行的文字，处在图片的上边界处。而对于inl，所在行的文字在图片的下边界处。
 
 十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十
 字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字 ![[obsidian_image.png|inlL|100]]
@@ -320,9 +310,8 @@ text
 #### `![]()`网络图片格式添加图片标题
 [[图片横排布局以及添加标题#图片添加标题]]
 
-```ad-tips
-同样需要注意使用图片的位置。
-```
+> [!tips]
+> 同样需要注意使用图片的位置。
 
 ### 图片横排
 #### 方法一
@@ -408,7 +397,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 		1. [x] 444
 		2. [<] 444
 2. [>] aaa
-	1. [<] aaa
+	1. [x] aaa
 3. [x] aaa
 	1. [x] 444
 ## mermaid

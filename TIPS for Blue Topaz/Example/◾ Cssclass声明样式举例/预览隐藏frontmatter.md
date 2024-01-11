@@ -13,10 +13,9 @@ tags:
 updated: 
 ---
 
-```ad-tip
-- 测试dataview表格内容不分行紧凑显示。
-- 需要在style setting 中3.6 Dataview中开启Dataview Table表格紧凑显示即可。
-```
+> [!tip]
+> - 测试dataview表格内容不分行紧凑显示。
+> - 需要在style setting 中3.6 Dataview中开启Dataview Table表格紧凑显示即可。
 
 
 ---

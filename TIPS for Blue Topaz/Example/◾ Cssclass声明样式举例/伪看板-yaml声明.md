@@ -4,10 +4,9 @@ cssclasses:
 usage: 伪看板的样式，无序列表四分栏
 updated: 2022-03-14 20:31
 ---
-```ad-tip
- - 这是一个伪看板的样式示例，需要在yaml区域声明cssclass
- - 伪看板样式和颜色可以在style settings 4.内置样式介绍中调整 
-```
+> [!tip]
+>  - 这是一个伪看板的样式示例，需要在yaml区域声明cssclass
+>  - 伪看板样式和颜色可以在style settings 4.内置样式介绍中调整 
 
 - [ ] 紫色鸡蛋
 	- [ ] Obsidian其实是紫色鸡蛋 [completion:: 2022-09-02]
