@@ -3,5 +3,7 @@
   "obsidian-jira-issue",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-admonition",
+  "obsidian-style-settings"
 ]
