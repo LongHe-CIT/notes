@@ -11,9 +11,11 @@
             "id": "de18be6a2f17b018",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "2024-01-10.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "2024-01-10.md"
               }
             }
           },
@@ -190,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbb8197795f80b5b",
+  "active": "de18be6a2f17b018",
   "lastOpenFiles": [
+    "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例.md",
     "TIPS for Blue Topaz/Example/¿¨Æ¬ÊÓÍ¼ Õ¹Ê¾±Ê¼Ç.md",
@@ -217,7 +220,6 @@
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
     "TIPS for Blue Topaz/Example/Word count.md",
-    "TIPS for Blue Topaz/Example/Î±¿´°å-ad,calloutÉùÃ÷.md",
     "main.canvas",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
