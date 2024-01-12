@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/Env Config.md",
-                "mode": "source",
+                "file": "CoverMore/CoverMore.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/Env Config.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/Env Config.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/Env Config.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "de18be6a2f17b018",
   "lastOpenFiles": [
-    "CoverMore/Jira Board.md",
     "CoverMore/Env Config.md",
+    "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例.md",
