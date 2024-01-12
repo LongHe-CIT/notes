@@ -47,19 +47,18 @@ see password
 
 PANDA-AU 
 
-| site             | link                                                       |
-|:---------------- | ---------------------------------------------------------- |
-| travelassociates | https://travelassociates.insurancebycovermore.com/         |
-| Tmoz             | https://travelmoneyoz.dev.insurancebycovermore.com/        |
-| RCI              | https://royalcaribbean.dev.insurancebycovermore.com/       |
-| Queen            | https://queenslandcountrybank.dev.insurancebycovermore.com |
-| NZ               | https://citest0103nz.dev.insurancebycovermore.com/         |
-| EasyTravel       | https://easytravelinsurance.dev.insurancebycovermore.com/  |
-| Cgu              | https://cgu.dev.insurancebycovermore.com/                  |
-| Cel              | https://celebritycruises.dev.insurancebycovermore.com/     |
-| Bupa             | https://bupa.dev.insurancebytravelinsurancepartners.com/   |
-| Bend             | https://bendigobank.dev.insurancebycovermore.com/          |
-| AU               | https://citest0103.dev.insurancebycovermore.com/           |
-|                  |                                                            |
+| site              | link                                                       |
+|:----------------- | ---------------------------------------------------------- |
+| Tmoz              | https://travelmoneyoz.dev.insurancebycovermore.com/        |
+| RCI               | https://royalcaribbean.dev.insurancebycovermore.com/       |
+| Queen             | https://queenslandcountrybank.dev.insurancebycovermore.com |
+| NZ                | https://citest0103nz.dev.insurancebycovermore.com/         |
+| EasyTravel        | https://easytravelinsurance.dev.insurancebycovermore.com/  |
+| Cgu               | https://cgu.dev.insurancebycovermore.com/                  |
+| Cel               | https://celebritycruises.dev.insurancebycovermore.com/     |
+| Bupa              | https://bupa.dev.insurancebytravelinsurancepartners.com/   |
+| Bend              | https://bendigobank.dev.insurancebycovermore.com/          |
+| Travel Associates | https://travelassociates.dev.insurancebycovermore.com/     |
+| AU                | https://citest0103.dev.insurancebycovermore.com/           |
 
 
