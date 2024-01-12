@@ -1,12 +1,9 @@
 ---
 "created:": "{{ date }} {{ HH:mm:ss }}"
-tags:
-  - 标签
-  - 重要
-  - 完成
+tags: 
 author: helong
 "updated:": 2024-01-12
-title: 《镰刀与城市》
+title:
 ---
 
 > [!note] 本地多站点配置
