@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "CoverMore/CoverMore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-10.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "de18be6a2f17b018",
   "lastOpenFiles": [
+    "2024-01-10.md",
     "CoverMore/Jira Board.md",
     "TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例.md",
@@ -219,7 +220,6 @@
     "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
-    "TIPS for Blue Topaz/Example/Word count.md",
     "main.canvas",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
