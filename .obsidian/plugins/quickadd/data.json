@@ -2,13 +2,13 @@
   "choices": [
     {
       "id": "59d3aeb2-ef05-46f4-a464-9c3405bdca3f",
-      "name": "test",
+      "name": "Quick add",
       "type": "Template",
       "command": true,
       "templatePath": "Template/Biji Template.md",
       "fileNameFormat": {
-        "enabled": true,
-        "format": "APACP"
+        "enabled": false,
+        "format": ""
       },
       "folder": {
         "enabled": false,
