@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eba5b923e4dc99cd",
+        "id": "793b9fe116bef1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "df658b2d4bf335bc",
+            "id": "e722a5af7c384ae9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/游玩路线.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/游玩路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/游玩路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "生活/游玩路线.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,17 +172,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df658b2d4bf335bc",
+  "active": "e722a5af7c384ae9",
   "lastOpenFiles": [
-    "2024-01-15.md",
     "生活/游玩路线.md",
     "Template/Biji Template.md",
-    "2024-01-10.md",
-    "sdf.md",
-    "sdf1.md",
+    "README.md",
+    "2024-01-15.md",
     "asd.md",
-    "asdasd.md",
+    "sdfs.md",
+    "sdf.md",
     "Template/Jira Board Template.md",
+    "2024-01-10.md",
+    "sdf1.md",
+    "asdasd.md",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "CoverMore/Env Config.md",
     "未命名.md",
@@ -207,8 +201,6 @@
     "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
     "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
-    "TIPS for Blue Topaz/Example/timeline calloutÐ§¹û.md",
-    "TIPS for Blue Topaz/Example/timeline callout效果.md",
     "main.canvas",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",

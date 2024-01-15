@@ -1,7 +1,7 @@
 ---
-"created:": "{{date}}{{HH:mm:ss}}"
+"created:": "{{date}}"
 tags: 
 author: helong
 "updated:": "{{date}}"
-title:
+title: "{{@today}}"
 ---
