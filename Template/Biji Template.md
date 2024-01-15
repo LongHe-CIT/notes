@@ -1,12 +1,7 @@
 ---
-"created:": "{{ date }} {{ HH:mm:ss }}"
-tags:
-  - 紧急任务
-  - 进行中
-  - 标签
-  - 重要
-  - 完成
+"created:": "{{date}}{{HH:mm:ss}}"
+tags: 
 author: helong
 "updated:": "{{date}}"
-title: 《镰刀与城市》
+title:
 ---
