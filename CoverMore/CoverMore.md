@@ -49,47 +49,36 @@ PANDA-AU
 
 | site | link |
 | :--- | ---- |
-| Tmoz | https://travelmoneyoz.dev.insurancebycovermore.com/ |
+| TOMz | https://travelmoneyoz.dev.insurancebycovermore.com/ |
 | RCI | https://royalcaribbean.dev.insurancebycovermore.com/ |
-| Queen | https://queenslandcountrybank.dev.insurancebycovermore.com |
+| Queensland Country Bank | https://queenslandcountrybank.dev.insurancebycovermore.com |
 | NZ | https://citest0103nz.dev.insurancebycovermore.com/ |
 | EasyTravel | https://easytravelinsurance.dev.insurancebycovermore.com/ |
 | Cgu | https://cgu.dev.insurancebycovermore.com/ |
 | Cel | https://celebritycruises.dev.insurancebycovermore.com/ |
-| Bupa | https://bupa.dev.insurancebytravelinsurancepartners.com/ |
+| Bupa Travel Insurance | https://bupa.dev.insurancebytravelinsurancepartners.com/ |
 | Bend | https://bendigobank.dev.insurancebycovermore.com/ |
 | Travel Associates | https://travelassociates.dev.insurancebycovermore.com/ |
 | AU | https://citest0103.dev.insurancebycovermore.com/ |
 | Cruiseabout Travel Insurance | https://cruiseabout.insurancebycovermore.com/ |
 
 
-|                              |         |                                                                                                           |
-| ---------------------------- | ------- | --------------------------------------------------------------------------------------------------------- |
-| Application                  | Partner | Site URL                                                                                                  |
-| Bankwest WL                  | AU      | [bankwest.poweredbycovermore.com](http://bankwest.poweredbycovermore.com/)                                |
-| celebritycruises             | AU      | [celebritycruises.insurancebycovermore.com](http://celebritycruises.insurancebycovermore.com/)            |
-|                              |         |                                                                                                           |
-| royalcaribbean               | AU      | [royalcaribbean.insurancebycovermore.com](http://royalcaribbean.insurancebycovermore.com/)                |
-| EasyTravel                   | AU      | [secure.easytravelinsurance.com.au](http://secure.easytravelinsurance.com.au/)                            |
-| CGU                          | AU      | [cgu.insurancebycovermore.com](http://cgu.insurancebycovermore.com/)                                      |
-| Bendigo Bank                 | AU      | [bendigobank.insurancebycovermore.com](http://bendigobank.insurancebycovermore.com/)                      |
-| Queensland Country Bank      | AU      | [queenslandcountrybank.insurancebycovermore.com](https://queenslandcountrybank.insurancebycovermore.com/) |
-| TOMz                         | AU      | [travelmoneyoz.insurancebycovermore.com/](http://travelmoneyoz.insurancebycovermore.com/)                 |
-|                              |         |                                                                                                           |
-|                              |         |                                                                                                           |
-| OZCruising                   | AU      | [ozcruising.insurancebycovermore.com](http://ozcruising.insurancebycovermore.com/)                        |
-| Olive Tree Travel            | AU      | [olivetreetravel.insurancebycovermore.com](http://olivetreetravel.insurancebycovermore.com)               |
-| World Expeditions            | AU      | [worldexpeditions.insurancebycovermore.com](http://worldexpeditions.insurancebycovermore.com)             |
-| Live The Dream Travel        | AU      | [livethedreamtravel.insurancebycovermore.com](http://livethedreamtravel.insurancebycovermore.com)         |
-| iLuv2Travel & Cruise         | AU      | [iluv2travel.insurancebycovermore.com](http://iluv2travel.insurancebycovermore.com/)                      |
-| My Holiday Travel Insurance  | AU      | [myholidaycentre.insurancebycovermore.com](http://myholidaycentre.insurancebycovermore.com)               |
-| My Cruises Travel Insurance  | AU      | [mycruises.insurancebycovermore.com](http://mycruises.insurancebycovermore.com)                           |
-|                              |         |                                                                                                           |
-| Travelinsure                 | AU      | [travelinsure.insurancebycovermore.com](http://travelinsure.insurancebycovermore.com)                     |
-| Acland Travel                | AU      | [aclandtravel.insurancebycovermore.com](http://aclandtravel.insurancebycovermore.com)                     |
-| National Travel              | AU      | [nationaltravel.insurancebycovermore.com](http://nationaltravel.insurancebycovermore.com)                 |
-| Travel Associates            | AU      | [travelassociates.insurancebycovermore.com](http://travelassociates.insurancebycovermore.com)             |
-| Travlr Travel Insurance      | AU      | [travlr.insurancebycovermore.com](http://travlr.insurancebycovermore.com)                                 |
-| Wandr Travel Insurance       | AU      | [wandrtravel.insurancebycovermore.com](http://wandrtravel.insurancebycovermore.com)                       |
-| Cruiseabout Travel Insurance | AU      | [cruiseabout.insurancebycovermore.com](http://cruiseabout.insurancebycovermore.com/)                      |
-| Bupa Travel Insurance        | AU      | [bupa.insurancebytravelinsurancepartners.com](http://bupa.insurancebytravelinsurancepartners.com/)        |
+|                              |         |                                                    |
+| ---------------------------- | ------- | -------------------------------------------------- |
+| Application                  | Partner | Site URL                                           |
+| Bankwest WL                  | AU      | http://bankwest.poweredbycovermore.com/            |
+| OZCruising                   | AU      | http://ozcruising.insurancebycovermore.com/        |
+| Olive Tree Travel            | AU      | http://olivetreetravel.insurancebycovermore.com    |
+| World Expeditions            | AU      | http://worldexpeditions.insurancebycovermore.com   |
+| Live The Dream Travel        | AU      | http://livethedreamtravel.insurancebycovermore.com |
+| iLuv2Travel & Cruise         | AU      | http://iluv2travel.insurancebycovermore.com/       |
+| My Holiday Travel Insurance  | AU      | http://myholidaycentre.insurancebycovermore.com    |
+| My Cruises Travel Insurance  | AU      | http://mycruises.insurancebycovermore.com          |
+| Travelinsure                 | AU      | http://travelinsure.insurancebycovermore.com       |
+| Acland Travel                | AU      | http://aclandtravel.insurancebycovermore.com       |
+| National Travel              | AU      | http://nationaltravel.insurancebycovermore.com     |
+| Travel Associates            | AU      | http://travelassociates.insurancebycovermore.com   |
+| Travlr Travel Insurance      | AU      | http://travlr.insurancebycovermore.com             |
+| Wandr Travel Insurance       | AU      | http://wandrtravel.insurancebycovermore.com        |
+| Cruiseabout Travel Insurance | AU      | http://cruiseabout.insurancebycovermore.com/       |
+
