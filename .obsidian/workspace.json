@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "793b9fe116bef1d5",
+        "id": "37ab1f7b631e1435",
         "type": "tabs",
         "children": [
           {
-            "id": "e722a5af7c384ae9",
+            "id": "0e19406e83a11dbd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "bef1037d9cdb5bc9",
@@ -167,41 +167,38 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "graph:查看关系图谱": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:查看关系图谱": false
     }
   },
-  "active": "e722a5af7c384ae9",
+  "active": "0e19406e83a11dbd",
   "lastOpenFiles": [
-    "生活/游玩路线.md",
     "Template/Biji Template.md",
+    "CoverMore/CoverMore.md",
+    "Notes/2023-12-04.md",
+    "main.canvas",
+    "Template/Jira Board Template.md",
+    "Notes/2023-12-14.md",
+    "Notes/2024-01-10.md",
+    "Notes/2023-12-13.md",
+    "Notes/2023-12-12.md",
+    "Notes/2023-12-06.md",
+    "Notes/2023-12-05.md",
+    "CoverMore/Env Config.md",
+    "TIPS for Blue Topaz/Example/card4.md",
+    "生活/游玩路线.md",
     "README.md",
     "2024-01-15.md",
     "asd.md",
     "sdfs.md",
     "sdf.md",
-    "Template/Jira Board Template.md",
     "2024-01-10.md",
     "sdf1.md",
     "asdasd.md",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
-    "CoverMore/Env Config.md",
     "未命名.md",
     "未命名 1.md",
     "生活",
-    "CoverMore/CoverMore.md",
     "CoverMore/Jira Board.md",
-    "TIPS for Blue Topaz/Example/ob提示框(callout)样式展示.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例.md",
-    "TIPS for Blue Topaz/Example/½ø¶ÈÌõÑùÊ½Æ¬¶Î.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "TIPS for Blue Topaz/Example/µ¥¶À¶¨ÖÆ±Ê¼Ç±³¾°.md",
-    "TIPS for Blue Topaz/Example/µçÓ°¿´°å.md",
-    "main.canvas",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",

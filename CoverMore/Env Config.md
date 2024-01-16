@@ -51,6 +51,3 @@ Visit site
 
 
 
-
-
-生活
