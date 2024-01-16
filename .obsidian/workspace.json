@@ -11,8 +11,12 @@
             "id": "0e19406e83a11dbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoverMore/CoverMore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoverMore/CoverMore.md"
+              }
             }
           },
           {
@@ -139,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "bef1037d9cdb5bc9",
@@ -167,26 +175,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0e19406e83a11dbd",
   "lastOpenFiles": [
+    "Template/Jira Board Template.md",
     "Template/Biji Template.md",
+    "CoverMore/Env Config.md",
     "CoverMore/CoverMore.md",
+    "生活/游玩路线.md",
+    "README.md",
     "Notes/2023-12-04.md",
     "main.canvas",
-    "Template/Jira Board Template.md",
     "Notes/2023-12-14.md",
     "Notes/2024-01-10.md",
     "Notes/2023-12-13.md",
     "Notes/2023-12-12.md",
     "Notes/2023-12-06.md",
     "Notes/2023-12-05.md",
-    "CoverMore/Env Config.md",
     "TIPS for Blue Topaz/Example/card4.md",
-    "生活/游玩路线.md",
-    "README.md",
     "2024-01-15.md",
     "asd.md",
     "sdfs.md",
