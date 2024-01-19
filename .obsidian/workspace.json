@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Env Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Env Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Env Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "CoverMore/Env Config.md"
               }
             }
           },
@@ -182,10 +182,11 @@
   },
   "active": "d375c89a0d22e97d",
   "lastOpenFiles": [
+    "CoverMore/Jira Board.md",
     "CoverMore/CoverMore.md",
+    "CoverMore/Env Config.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
-    "CoverMore/Env Config.md",
     "生活/游玩路线.md",
     "README.md",
     "Notes/2023-12-04.md",
@@ -208,7 +209,6 @@
     "未命名.md",
     "未命名 1.md",
     "生活",
-    "CoverMore/Jira Board.md",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
