@@ -64,22 +64,22 @@ PANDA-AU
 | Cruiseabout Travel Insurance | https://cruiseabout.insurancebycovermore.com/ |
 
 
-|                              |         |                                                    |
-| ---------------------------- | ------- | -------------------------------------------------- |
-| Application                  | Partner | Site URL                                           |
-| Bankwest WL                  | AU      | http://bankwest.poweredbycovermore.com/            |
-| OZCruising                   | AU      | http://ozcruising.insurancebycovermore.com/        |
-| Olive Tree Travel            | AU      | http://olivetreetravel.insurancebycovermore.com    |
-| World Expeditions            | AU      | http://worldexpeditions.insurancebycovermore.com   |
-| Live The Dream Travel        | AU      | http://livethedreamtravel.insurancebycovermore.com |
-| iLuv2Travel & Cruise         | AU      | http://iluv2travel.insurancebycovermore.com/       |
-| My Holiday Travel Insurance  | AU      | http://myholidaycentre.insurancebycovermore.com    |
-| My Cruises Travel Insurance  | AU      | http://mycruises.insurancebycovermore.com          |
-| Travelinsure                 | AU      | http://travelinsure.insurancebycovermore.com       |
-| Acland Travel                | AU      | http://aclandtravel.insurancebycovermore.com       |
-| National Travel              | AU      | http://nationaltravel.insurancebycovermore.com     |
-| Travel Associates            | AU      | http://travelassociates.insurancebycovermore.com   |
-| Travlr Travel Insurance      | AU      | http://travlr.insurancebycovermore.com             |
-| Wandr Travel Insurance       | AU      | http://wandrtravel.insurancebycovermore.com        |
-| Cruiseabout Travel Insurance | AU      | http://cruiseabout.insurancebycovermore.com/       |
+|                              |                                                    |
+| ---------------------------- | -------------------------------------------------- |
+| Application                  | Site URL                                           |
+| Bankwest WL                  | http://bankwest.poweredbycovermore.com/            |
+| OZCruising                   | http://ozcruising.insurancebycovermore.com/        |
+| Olive Tree Travel            | http://olivetreetravel.insurancebycovermore.com    |
+| World Expeditions            | http://worldexpeditions.insurancebycovermore.com   |
+| Live The Dream Travel        | http://livethedreamtravel.insurancebycovermore.com |
+| iLuv2Travel & Cruise         | http://iluv2travel.insurancebycovermore.com/       |
+| My Holiday Travel Insurance  | http://myholidaycentre.insurancebycovermore.com    |
+| My Cruises Travel Insurance  | http://mycruises.insurancebycovermore.com          |
+| Travelinsure                 | http://travelinsure.insurancebycovermore.com       |
+| Acland Travel                | http://aclandtravel.insurancebycovermore.com       |
+| National Travel              | http://nationaltravel.insurancebycovermore.com     |
+| Travel Associates            | http://travelassociates.insurancebycovermore.com   |
+| Travlr Travel Insurance      | http://travlr.insurancebycovermore.com             |
+| Wandr Travel Insurance       | http://wandrtravel.insurancebycovermore.com        |
+| Cruiseabout Travel Insurance | http://cruiseabout.insurancebycovermore.com/       |
 
