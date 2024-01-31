@@ -11,11 +11,9 @@
             "id": "d375c89a0d22e97d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "CoverMore/CoverMore.md",
-                "mode": "source",
-                "source": false
+                "file": "CoverMore/Jira Board.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Jira Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Jira Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "CoverMore/Jira Board.md"
               }
             }
           },
@@ -182,9 +180,9 @@
   },
   "active": "d375c89a0d22e97d",
   "lastOpenFiles": [
-    "CoverMore/Env Config.md",
-    "CoverMore/Jira Board.md",
     "CoverMore/CoverMore.md",
+    "CoverMore/Jira Board.md",
+    "CoverMore/Env Config.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
     "生活/游玩路线.md",

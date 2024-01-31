@@ -8,28 +8,6 @@ limit: 50
 columns: KEY, SUMMARY, ASSIGNEE, -PRIORITY, -FIX_VERSIONS, STATUS,
 account: helong
 ```
-### 240123D-CMAP
-
-```jira-issue
-APACP-856
-APACP-983
-APACP-982
-
-# This is a comment 
-```
-
-```jira-issue
-APACP-230
-https://innate.atlassian.net/browse/APACP-976
-```
-
-- [x] [APACP-856](https://innate.atlassian.net/browse/APACP-856)  
-- [x] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
-- [x] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
-
-- [x] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
-- [x] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
-- [ ] https://innate.atlassian.net/browse/APACP-948
 
 see password
 ```shell
@@ -84,3 +62,16 @@ PANDA-AU
 | Wandr Travel Insurance       | http://wandrtravel.insurancebycovermore.com        |
 | Cruiseabout Travel Insurance | http://cruiseabout.insurancebycovermore.com/       |
 
+### 240123D-CMAP
+
+- [x] [APACP-856](https://innate.atlassian.net/browse/APACP-856)  
+- [x] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
+- [x] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
+
+### 240206D-CMAP
+- [x] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
+- [x] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
+- [x] [APACP-1119](https://innate.atlassian.net/browse/APACP-1119)
+
+### 240305D-CMAP
+- [ ] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
