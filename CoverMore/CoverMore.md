@@ -27,8 +27,9 @@ https://innate.atlassian.net/browse/APACP-976
 - [x] [APACP-983](https://innate.atlassian.net/browse/APACP-983)
 - [x] [APACP-982](https://innate.atlassian.net/browse/APACP-982)
 
-- [ ] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
-- [ ] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
+- [x] [APACP-230](https://innate.atlassian.net/browse/APACP-230)
+- [x] [APACP-976](https://innate.atlassian.net/browse/APACP-976)
+- [ ] https://innate.atlassian.net/browse/APACP-948
 
 see password
 ```shell
