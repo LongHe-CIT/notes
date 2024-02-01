@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CoverMore/CoverMore.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "d375c89a0d22e97d",
   "lastOpenFiles": [
+    "README.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
     "Notes/2024-01-10.md",
     "CoverMore/Jira Board.md",
@@ -192,7 +193,6 @@
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
     "生活/游玩路线.md",
-    "README.md",
     "Notes/2023-12-04.md",
     "Notes/2023-12-14.md",
     "Notes/2023-12-13.md",
