@@ -11,24 +11,15 @@
             "id": "d375c89a0d22e97d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CoverMore/Jira Board.md"
-              }
-            }
-          },
-          {
-            "id": "f298b837e3e41595",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -189,10 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f298b837e3e41595",
+  "active": "d375c89a0d22e97d",
   "lastOpenFiles": [
-    "CoverMore/Jira Board.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+    "Notes/2024-01-10.md",
+    "CoverMore/Jira Board.md",
+    "main.canvas",
     "Excalidraw",
     "CoverMore/CoverMore.md",
     "CoverMore/Env Config.md",
@@ -201,9 +194,7 @@
     "生活/游玩路线.md",
     "README.md",
     "Notes/2023-12-04.md",
-    "main.canvas",
     "Notes/2023-12-14.md",
-    "Notes/2024-01-10.md",
     "Notes/2023-12-13.md",
     "Notes/2023-12-12.md",
     "Notes/2023-12-06.md",
@@ -218,7 +209,6 @@
     "asdasd.md",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "未命名.md",
-    "未命名 1.md",
     "生活",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
