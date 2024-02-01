@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Sprint APACP-2402 @{2024-03-05}
-- [ ] - [x] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
 
 
 ## Ready For QA
 
+- [ ] Sprint APACP-2402 @{2024-03-05}
+- [ ] - [x] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
 
 
 ## Ready For UAT
