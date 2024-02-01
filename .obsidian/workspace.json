@@ -16,8 +16,19 @@
                 "file": "CoverMore/Jira Board.md"
               }
             }
+          },
+          {
+            "id": "f298b837e3e41595",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/Jira Board.md",
+                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/Jira Board.md"
+                "file": "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md"
               }
             }
           },
@@ -178,10 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d375c89a0d22e97d",
+  "active": "f298b837e3e41595",
   "lastOpenFiles": [
-    "CoverMore/CoverMore.md",
     "CoverMore/Jira Board.md",
+    "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+    "Excalidraw",
+    "CoverMore/CoverMore.md",
     "CoverMore/Env Config.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
@@ -219,7 +232,6 @@
     "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "CoverMore",
     "CoverMore/Jira Board",
     "files/Pasted image 20240110131128.png",
