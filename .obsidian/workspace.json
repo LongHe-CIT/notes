@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/Car.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -195,9 +195,9 @@
   },
   "active": "69999c2eb4bfc72c",
   "lastOpenFiles": [
+    "生活/Car.md",
     "files/Pasted image 20240202110906.png",
     "生活/游玩路线.md",
-    "生活/Car.md",
     "CoverMore/CoverMore.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
@@ -239,7 +239,6 @@
     "CoverMore",
     "CoverMore/Jira Board",
     "files/Pasted image 20240110131128.png",
-    "Pasted image 20240110130943.png",
     "CoverMore",
     "files/zsh-syntax-highlighting/tests/test-zprof.zsh",
     "files/zsh-syntax-highlighting/tests/test-perfs.zsh"
