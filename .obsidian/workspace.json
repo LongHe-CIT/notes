@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "生活/游玩路线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69999c2eb4bfc72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/Car.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "生活/Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "生活/Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "生活/Car.md"
               }
             }
           },
@@ -180,19 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d375c89a0d22e97d",
+  "active": "69999c2eb4bfc72c",
   "lastOpenFiles": [
+    "生活/游玩路线.md",
+    "生活/Car.md",
+    "CoverMore/CoverMore.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
     "Notes/2024-01-10.md",
     "CoverMore/Jira Board.md",
     "main.canvas",
     "Excalidraw",
-    "CoverMore/CoverMore.md",
     "CoverMore/Env Config.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
-    "生活/游玩路线.md",
     "Notes/2023-12-04.md",
     "Notes/2023-12-14.md",
     "Notes/2023-12-13.md",
@@ -208,7 +222,6 @@
     "sdf1.md",
     "asdasd.md",
     "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
-    "未命名.md",
     "生活",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
