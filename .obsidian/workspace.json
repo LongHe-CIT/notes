@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
-                "mode": "source",
+                "file": "生活/Car.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "生活/Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "生活/Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "生活/Car.md"
               }
             }
           },
@@ -195,10 +195,10 @@
   },
   "active": "69999c2eb4bfc72c",
   "lastOpenFiles": [
+    "CoverMore/CoverMore.md",
     "生活/Car.md",
     "files/Pasted image 20240202110906.png",
     "生活/游玩路线.md",
-    "CoverMore/CoverMore.md",
     "README.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
     "Notes/2024-01-10.md",
