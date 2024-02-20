@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/Car.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/Car.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "69999c2eb4bfc72c",
   "lastOpenFiles": [
-    "CoverMore/CoverMore.md",
     "生活/Car.md",
+    "CoverMore/CoverMore.md",
     "files/Pasted image 20240202110906.png",
     "生活/游玩路线.md",
     "README.md",
