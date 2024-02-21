@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Jira Board.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Jira Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "CoverMore/Jira Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "CoverMore/Jira Board.md"
               }
             }
           },
@@ -195,17 +195,17 @@
   },
   "active": "69999c2eb4bfc72c",
   "lastOpenFiles": [
-    "生活/Car.md",
     "CoverMore/CoverMore.md",
+    "CoverMore/Env Config.md",
+    "CoverMore/Jira Board.md",
+    "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+    "生活/Car.md",
     "files/Pasted image 20240202110906.png",
     "生活/游玩路线.md",
     "README.md",
-    "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
     "Notes/2024-01-10.md",
-    "CoverMore/Jira Board.md",
     "main.canvas",
     "Excalidraw",
-    "CoverMore/Env Config.md",
     "Template/Jira Board Template.md",
     "Template/Biji Template.md",
     "Notes/2023-12-04.md",
