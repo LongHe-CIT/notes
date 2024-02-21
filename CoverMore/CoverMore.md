@@ -86,17 +86,17 @@ PANDA-AU
 - [ ] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
 
 
-| Element | Hide | ... | End | Mobile End |
-| ---- | ---- | ---- | ---- | ---- |
-| Title | unchecked |  | unchecked | checked |
-| First name |  |  | checked | checked |
-| Last name |  |  | unchecked | checked |
-| Date of birth |  |  | checked | checked |
-| Email |  |  | unchecked | checked |
-| Phone |  |  | checked | checked |
-| <br>...<br> |  |  |  |  |
-| <br>Member Number & Suffix |  |  | <br>checked | <br>checked |
-|  |  |  |  |  |
+| Element                    | Hide      | Primary Traveller Only | ... | End         | Mobile End  |
+| -------------------------- | --------- | -------------------------------- | --- | ----------- | ----------- |
+| Title                      | unchecked | checked                          |     | unchecked   | checked     |
+| First name                 |           |                                  |     | checked     | checked     |
+| Last name                  |           |                                  |     | unchecked   | checked     |
+| Date of birth              |           |                                  |     | checked     | checked     |
+| Email                      |           |                                  |     | unchecked   | checked     |
+| Phone                      |           |                                  |     | checked     | checked     |
+| <br>...<br>                |           |                                  |     |             |             |
+| <br>Member Number & Suffix |           |                                  |     | <br>checked | <br>checked |
+|                            |           |                                  |     |             |             |
 
 Autocomplete address
 Autocomplete address overrides
