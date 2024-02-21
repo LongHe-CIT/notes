@@ -83,3 +83,20 @@ PANDA-AU
 - [ ] [APACP-1068](https://innate.atlassian.net/browse/APACP-1068)
 - [ ] [APACP-1069](https://innate.atlassian.net/browse/APACP-1069)
 - [ ] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
+
+
+| Element           | Hide      | ...    | End | Mobile End |
+| ----------------- | --------- | --- | --- | ---------- |
+| Title             | unchecked |     |     | checked    |
+| <br>First name    |           |     | <br>checked    | <br>checked           |
+| <br>Last name     |           |     |     | <br>checked           |
+| <br>Date of birth |           |     | <br>checked    | <br>checked           |
+| <br>Email         |           |     |     | <br>checked           |
+| <br>Phone         |           |     | <br>checked    | <br>checked           |
+| <br>...<br>              |           |     |     |            |
+|                   |           |     |     |            |
+|                   |           |     |     |            |
+
+Autocomplete address
+Autocomplete address overrides
+unchecked End
