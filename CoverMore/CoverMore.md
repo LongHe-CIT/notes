@@ -76,5 +76,10 @@ PANDA-AU
 ### 240305D-CMAP
 - [ ] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
 
-
-- [x] [APACP-1051](https://innate.atlassian.net/browse/APACP-1051)
+### 240319D-CMAP
+- [ ] [APACP-1051](https://innate.atlassian.net/browse/APACP-1051)
+- [ ] [APACP-1066](https://innate.atlassian.net/browse/APACP-1066)
+- [ ] [APACP-1067](https://innate.atlassian.net/browse/APACP-1067)
+- [ ] [APACP-1068](https://innate.atlassian.net/browse/APACP-1068)
+- [ ] [APACP-1069](https://innate.atlassian.net/browse/APACP-1069)
+- [ ] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
