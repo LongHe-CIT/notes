@@ -83,6 +83,7 @@ PANDA-AU
 - [ ] [APACP-1068](https://innate.atlassian.net/browse/APACP-1068)
 - [ ] [APACP-1069](https://innate.atlassian.net/browse/APACP-1069)
 - [ ] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
+- [ ] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
 
 
 | Element | Hide | ... | End | Mobile End |

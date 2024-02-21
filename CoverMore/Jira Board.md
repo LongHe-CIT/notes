@@ -23,6 +23,7 @@ kanban-plugin: basic
 
 - [ ] Sprint APACP-2402 @{2024-03-05}
 - [ ] - [x] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
+- [ ] - [x] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
 
 
 ## Done
