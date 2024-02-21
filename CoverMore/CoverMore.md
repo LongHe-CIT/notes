@@ -94,7 +94,7 @@ PANDA-AU
 | <br>Email         |           |     |     | <br>checked           |
 | <br>Phone         |           |     | <br>checked    | <br>checked           |
 | <br>...<br>              |           |     |     |            |
-|                   |           |     |     |            |
+|   <br>Member Number & Suffix                  |           |     | <br>checked    | <br>checked           |
 |                   |           |     |     |            |
 
 Autocomplete address
