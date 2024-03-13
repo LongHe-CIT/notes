@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "478bfa3b90b0ccfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2024-03-13 MongoDB Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "Notes/2024-03-13 MongoDB Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoverMore/CoverMore.md",
+                "file": "Notes/2024-03-13 MongoDB Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoverMore/CoverMore.md"
+                "file": "Notes/2024-03-13 MongoDB Config.md"
               }
             }
           },
@@ -188,32 +200,36 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:查看关系图谱": false
     }
   },
-  "active": "69999c2eb4bfc72c",
+  "active": "478bfa3b90b0ccfe",
   "lastOpenFiles": [
+    "files/Pasted image 20240313114848.png",
+    "files/Pasted image 20240313114716.png",
+    "files/Pasted image 20240313114654.png",
+    "files/Pasted image 20240313114533.png",
     "CoverMore/Env Config.md",
-    "CoverMore/Jira Board.md",
-    "CoverMore/CoverMore.md",
-    "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
-    "生活/Car.md",
-    "files/Pasted image 20240202110906.png",
-    "生活/游玩路线.md",
+    "Notes/2024-03-13 MongoDB Config.md",
     "README.md",
+    "notes-main.md",
     "Notes/2024-01-10.md",
-    "main.canvas",
-    "Excalidraw",
-    "Template/Jira Board Template.md",
-    "Template/Biji Template.md",
-    "Notes/2023-12-04.md",
     "Notes/2023-12-14.md",
     "Notes/2023-12-13.md",
     "Notes/2023-12-12.md",
     "Notes/2023-12-06.md",
     "Notes/2023-12-05.md",
+    "Notes/2023-12-04.md",
+    "CoverMore/CoverMore.md",
+    "CoverMore/Jira Board.md",
+    "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
+    "生活/Car.md",
+    "files/Pasted image 20240202110906.png",
+    "生活/游玩路线.md",
+    "main.canvas",
+    "Excalidraw",
+    "Template/Jira Board Template.md",
+    "Template/Biji Template.md",
     "TIPS for Blue Topaz/Example/card4.md",
     "2024-01-15.md",
     "asd.md",
@@ -221,8 +237,6 @@
     "sdf.md",
     "2024-01-10.md",
     "sdf1.md",
-    "asdasd.md",
-    "TIPS for Blue Topaz/Example/obÌáÊ¾¿ò(callout)ÑùÊ½Õ¹Ê¾.md",
     "生活",
     "files/zsh-syntax-highlighting/images/after2-smaller.png",
     "files/zsh-syntax-highlighting/images/after1.png",
@@ -230,15 +244,12 @@
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
     "TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
-    "TIPS for Blue Topaz/Attachemnt/ÈÃ×Óµ¯·Éº£±¨.jpg",
     "未命名.canvas",
     "Template",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "CoverMore",
     "CoverMore/Jira Board",
-    "files/Pasted image 20240110131128.png",
     "CoverMore",
     "files/zsh-syntax-highlighting/tests/test-zprof.zsh",
     "files/zsh-syntax-highlighting/tests/test-perfs.zsh"
