@@ -83,7 +83,6 @@ PANDA-AU
 - [x] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
 - [x] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
 
-
 | Element                    | Hide      | Primary Traveller Only | ... | End         | Mobile End  |
 | -------------------------- | --------- | -------------------------------- | --- | ----------- | ----------- |
 | Title                      | unchecked | checked                          |     | unchecked   | checked     |
@@ -100,8 +99,11 @@ Autocomplete address
 Autocomplete address overrides
 unchecked End
 
+
+
 ---
 ### 240402D-CMAP
+
 - [ ] [APACP-1334](https://innate.atlassian.net/browse/APACP-1334) Quote Page: USP place holder - Desktop / Mobile  
 - [ ] [APACP-1335](https://innate.atlassian.net/browse/APACP-1335) Quote Page: Customer service section- Desktop / Mobile
 - [ ] [APACP-1337](https://innate.atlassian.net/browse/APACP-1337) Quote Page: Page footer / header - Desktop / Mobile 
@@ -112,8 +114,7 @@ unchecked End
 ---
 ### 240416D-CMAP
 
-|                                                              |                                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------------ |
-| [APACP-1332](https://innate.atlassian.net/browse/APACP-1332) | Quote Page: Add Mozo awards on background image - Desktop / Mobile |
-|                                                              |                                                                    |
-| [APACP-1404](https://innate.atlassian.net/browse/APACP-1404) | [D] Add Apple Pay / Google Pay to BUPA                             |
+- [ ] [APACP-1332](https://innate.atlassian.net/browse/APACP-1332) Quote Page: Add Mozo awards on background image - Desktop / Mobile
+- [ ] [APACP-1404](https://innate.atlassian.net/browse/APACP-1404) Add Apple Pay / Google Pay to BUPA
+
+
