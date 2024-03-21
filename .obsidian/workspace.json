@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2024-03-13 MongoDB Config.md",
+                "file": "CoverMore/CoverMore.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2024-03-13 MongoDB Config.md",
+                "file": "CoverMore/CoverMore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2024-03-13 MongoDB Config.md",
+                "file": "CoverMore/CoverMore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2024-03-13 MongoDB Config.md"
+                "file": "CoverMore/CoverMore.md"
               }
             }
           },
@@ -205,13 +205,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbb8197795f80b5b",
+  "active": "478bfa3b90b0ccfe",
   "lastOpenFiles": [
+    "CoverMore/Env Config.md",
+    "CoverMore/CoverMore.md",
+    "生活/游玩路线.md",
     "files/Pasted image 20240313114848.png",
     "files/Pasted image 20240313114716.png",
     "files/Pasted image 20240313114654.png",
     "files/Pasted image 20240313114533.png",
-    "CoverMore/Env Config.md",
     "Notes/2024-03-13 MongoDB Config.md",
     "README.md",
     "notes-main.md",
@@ -222,12 +224,10 @@
     "Notes/2023-12-06.md",
     "Notes/2023-12-05.md",
     "Notes/2023-12-04.md",
-    "CoverMore/CoverMore.md",
     "CoverMore/Jira Board.md",
     "Excalidraw/Drawing 2024-02-01 14.33.24.excalidraw.md",
     "生活/Car.md",
     "files/Pasted image 20240202110906.png",
-    "生活/游玩路线.md",
     "main.canvas",
     "Excalidraw",
     "Template/Jira Board Template.md",
@@ -245,7 +245,6 @@
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
     "TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
-    "TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "未命名.canvas",
     "Template",
     "Excalidraw/Scripts/Downloaded",

@@ -75,13 +75,13 @@ PANDA-AU
 - [ ] [APACP-948](https://innate.atlassian.net/browse/APACP-948)
 
 ### 240319D-CMAP
-- [ ] [APACP-1051](https://innate.atlassian.net/browse/APACP-1051)
-- [ ] [APACP-1066](https://innate.atlassian.net/browse/APACP-1066)
-- [ ] [APACP-1067](https://innate.atlassian.net/browse/APACP-1067)
-- [ ] [APACP-1068](https://innate.atlassian.net/browse/APACP-1068)
-- [ ] [APACP-1069](https://innate.atlassian.net/browse/APACP-1069)
-- [ ] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
-- [ ] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
+- [x] [APACP-1051](https://innate.atlassian.net/browse/APACP-1051)
+- [x] [APACP-1066](https://innate.atlassian.net/browse/APACP-1066)
+- [x] [APACP-1067](https://innate.atlassian.net/browse/APACP-1067)
+- [x] [APACP-1068](https://innate.atlassian.net/browse/APACP-1068)
+- [x] [APACP-1069](https://innate.atlassian.net/browse/APACP-1069)
+- [x] [APACP-1070](https://innate.atlassian.net/browse/APACP-1070)
+- [x] [APACP-1172](https://innate.atlassian.net/browse/APACP-1172)
 
 
 | Element                    | Hide      | Primary Traveller Only | ... | End         | Mobile End  |
@@ -99,3 +99,12 @@ PANDA-AU
 Autocomplete address
 Autocomplete address overrides
 unchecked End
+
+### 240402D-CMAP
+
+|     |                                                              |                                                        |
+| --- | ------------------------------------------------------------ | ------------------------------------------------------ |
+|     | [APACP-1334](https://innate.atlassian.net/browse/APACP-1334) | Quote Page: USP place holder - Desktop / Mobile        |
+|     | [APACP-1335](https://innate.atlassian.net/browse/APACP-1335) | Quote Page: Customer service section- Desktop / Mobile |
+|     | [APACP-1337](https://innate.atlassian.net/browse/APACP-1337) | Quote Page: Page footer / header - Desktop / Mobile    |
+|     |                                                              |                                                        |
