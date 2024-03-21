@@ -115,3 +115,5 @@ unchecked End
 |                                                              |                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------ |
 | [APACP-1332](https://innate.atlassian.net/browse/APACP-1332) | Quote Page: Add Mozo awards on background image - Desktop / Mobile |
+|                                                              |                                                                    |
+| [APACP-1404](https://innate.atlassian.net/browse/APACP-1404) | [D] Add Apple Pay / Google Pay to BUPA                             |
