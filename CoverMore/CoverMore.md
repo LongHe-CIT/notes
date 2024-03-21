@@ -100,11 +100,18 @@ Autocomplete address
 Autocomplete address overrides
 unchecked End
 
+---
 ### 240402D-CMAP
+- [ ] [APACP-1334](https://innate.atlassian.net/browse/APACP-1334) Quote Page: USP place holder - Desktop / Mobile  
+- [ ] [APACP-1335](https://innate.atlassian.net/browse/APACP-1335) Quote Page: Customer service section- Desktop / Mobile
+- [ ] [APACP-1337](https://innate.atlassian.net/browse/APACP-1337) Quote Page: Page footer / header - Desktop / Mobile 
+- [ ] [APACP-1383](https://innate.atlassian.net/browse/APACP-1383) INC0308406: ROOT CAUSE REPAIR - Date Validation Error through API
+- [ ] [APACP-1412](https://innate.atlassian.net/browse/APACP-1412) INC0317278: ahm - iFrame - Inaccessible symbol when selecting a date.
 
-|     |                                                              |                                                        |
-| --- | ------------------------------------------------------------ | ------------------------------------------------------ |
-|     | [APACP-1334](https://innate.atlassian.net/browse/APACP-1334) | Quote Page: USP place holder - Desktop / Mobile        |
-|     | [APACP-1335](https://innate.atlassian.net/browse/APACP-1335) | Quote Page: Customer service section- Desktop / Mobile |
-|     | [APACP-1337](https://innate.atlassian.net/browse/APACP-1337) | Quote Page: Page footer / header - Desktop / Mobile    |
-|     |                                                              |                                                        |
+
+---
+### 240416D-CMAP
+
+|                                                              |                                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [APACP-1332](https://innate.atlassian.net/browse/APACP-1332) | Quote Page: Add Mozo awards on background image - Desktop / Mobile |
